@@ -1,0 +1,832 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+1,Lucas Abascia,ar ARG,DF,cl Ñublense,27,1995,1.3,0,0,0,1,1,0,0,4,3,0,0,0,8,5,2,71.4,Matches
+2,Miguel Acosta,ar ARG,GK,ar Arg Juniors,21,2001,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+3,Luiz Adriano,br BRA,FW,br Internacional,35,1987,4.4,0,0,0,3,5,4,0,0,1,0,0,0,7,3,17,15.0,Matches
+4,Adson,br BRA,"MF,FW",br Corinthians,22,2000,3.1,0,0,0,0,8,0,6,1,4,0,0,0,17,0,5,0.0,Matches
+5,Luis Advíncula,pe PER,"DF,FW",ar Boca Juniors,32,1990,12.1,2,0,0,7,17,1,37,5,14,0,0,0,62,13,11,54.2,Matches
+6,Carlos Aguinaga,pe PER,MF,pe Melgar,20,2002,0.3,0,0,0,1,1,0,1,0,1,0,0,0,1,1,0,100.0,Matches
+7,Darío Aimar,ec ECU,DF,ec SD Aucas,28,1995,1.2,0,0,0,1,0,0,0,0,1,0,0,0,5,0,1,0.0,Matches
+8,Kevin Aladesanmi,co COL,"MF,FW",co Pereira,24,1998,0.7,0,0,0,4,0,2,0,1,0,0,0,0,7,7,6,53.8,Matches
+9,Jostin Alarcón,pe PER,MF,pe Sporting Cristal,20,2002,2.3,0,0,0,5,4,0,2,2,3,0,0,0,10,0,1,0.0,Matches
+10,Yuri Alberto,br BRA,FW,br Corinthians,21,2001,4.5,1,0,0,4,1,7,1,0,2,0,0,0,9,6,10,37.5,Matches
+11,Adrián Alcaraz,py PAR,FW,py Libertad,23,1999,0.3,0,0,0,1,1,0,0,0,0,0,0,0,0,2,5,28.6,Matches
+12,Antolín Alcaraz,py PAR,DF,py Olimpia,40,1982,1.1,0,0,0,0,0,0,0,2,0,0,0,0,9,3,2,60.0,Matches
+13,Jordy Alcivar,ec ECU,MF,ec Independiente,23,1999,5.2,0,0,0,1,7,1,16,6,3,0,0,0,33,2,5,28.6,Matches
+14,Christian Alemán,ec ECU,DF,ec SD Aucas,26,1996,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+15,Alexandre Alemão,br BRA,FW,br Internacional,24,1998,1.8,0,0,0,1,3,0,1,0,2,0,0,0,7,6,5,54.5,Matches
+16,Jhonny Alexander Vásquez,co COL,"MF,DF",co Pereira,35,1987,6.7,3,0,0,6,8,1,0,8,6,0,1,0,39,8,5,61.5,Matches
+17,Alexsander,br BRA,MF,br Fluminense,19,2003,4.5,1,0,0,10,6,0,4,6,7,0,0,0,24,1,4,20.0,Matches
+18,Carmelo Algarañaz,bo BOL,"FW,MF",bo Bolívar,27,1996,2.2,0,0,0,5,2,0,0,1,1,0,0,0,4,0,4,0.0,Matches
+19,Rodrigo Aliendro,ar ARG,MF,ar River Plate,31,1991,7.8,1,0,0,6,21,1,1,16,14,0,0,0,62,14,18,43.8,Matches
+20,Allan,br BRA,MF,br Flamengo,25,1997,1.0,1,0,0,1,2,0,0,2,0,0,0,0,4,2,2,50.0,Matches
+21,Christian Almeida,uy URU,DF,uy Nacional,33,1989,1.3,0,0,0,2,1,0,1,3,1,0,0,0,7,5,2,71.4,Matches
+22,Agustín Almendra,ar ARG,MF,ar Racing Club,22,2000,0.6,1,0,0,1,3,0,0,0,1,0,0,0,5,1,1,50.0,Matches
+23,Jaime Alvarado,co COL,MF,co Independiente,23,1999,5.7,2,0,0,7,4,0,2,5,9,0,0,0,58,7,6,53.8,Matches
+24,Pedro Álvarez,py PAR,"DF,MF",py Cerro Porteño,21,2001,1.4,0,0,0,2,0,0,0,1,1,0,1,0,5,1,3,25.0,Matches
+25,Iván Anderson,pa PAN,"DF,MF",ve Monagas,25,1997,5.0,1,0,0,13,4,1,14,5,7,0,0,0,38,10,9,52.6,Matches
+26,Andrés Andrade,co COL,"FW,MF",pe Alianza Lima,33,1989,2.0,2,0,0,8,4,0,9,0,2,0,1,0,9,0,1,0.0,Matches
+27,André,br BRA,MF,br Fluminense,21,2001,12.7,2,0,0,19,25,0,1,16,26,0,1,0,107,5,4,55.6,Matches
+28,Carlos Andrés Ramírez,co COL,DF,co Pereira,34,1988,6.6,2,0,0,1,3,0,7,5,3,0,0,0,18,8,6,57.1,Matches
+29,Tomas Ángel,co COL,"FW,MF",co Nacional,19,2003,2.6,0,0,0,1,1,1,0,1,0,0,0,0,2,0,3,0.0,Matches
+30,Miguel Ángel Torrén,ar ARG,DF,ar Arg Juniors,34,1988,4.8,0,0,0,3,3,0,1,5,3,0,0,0,36,4,3,57.1,Matches
+31,Wilker Ángel,ve VEN,DF,ec SD Aucas,29,1993,3.8,1,0,0,6,2,0,0,3,4,0,0,1,13,4,3,57.1,Matches
+32,Álvaro Angulo,co COL,DF,co Nacional,25,1997,2.2,0,0,0,1,1,0,5,6,1,0,0,0,9,1,2,33.3,Matches
+33,Larry Angulo,co COL,MF,co Pereira,27,1995,2.7,2,0,0,5,2,1,2,3,6,0,0,0,9,2,2,50.0,Matches
+34,Luis Annese,ve VEN,"FW,MF",ve Metropolitanos,30,1992,0.2,1,0,0,2,1,0,0,0,0,0,0,0,2,0,1,0.0,Matches
+35,Irwin Antón,ve VEN,MF,ve Metropolitanos,35,1988,0.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+36,Mateo Antoni,uy URU,"DF,MF",uy Liverpool,19,2003,1.3,0,0,0,0,0,0,0,2,1,0,0,0,3,1,2,33.3,Matches
+37,Claudio Aquino,ar ARG,MF,py Cerro Porteño,31,1991,5.6,1,0,0,7,18,1,28,1,11,0,0,0,29,2,2,50.0,Matches
+38,Guilherme Arana,br BRA,DF,br Atlético Mineiro,25,1997,3.3,1,0,0,3,3,0,7,3,2,0,0,0,24,7,4,63.6,Matches
+39,Charles Aránguiz,cl CHI,MF,br Internacional,33,1989,4.8,2,0,0,4,6,0,3,4,8,0,0,0,34,2,4,33.3,Matches
+40,Pablo Aránguiz,cl CHI,"FW,MF",cl Ñublense,25,1997,2.2,2,0,0,3,5,3,8,2,1,0,0,0,7,1,3,25.0,Matches
+41,Paul Arano,bo BOL,MF,bo The Strongest,27,1995,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+42,Luiz Araújo,br BRA,FW,br Flamengo,26,1996,0.1,1,0,0,1,1,0,3,0,0,0,0,0,0,0,0,,Matches
+43,Matheus Araújo,br BRA,MF,br Corinthians,20,2002,1.6,0,0,0,2,2,0,8,0,3,0,0,0,13,3,1,75.0,Matches
+44,Walter Araújo,py PAR,MF,ve Metropolitanos,27,1995,0.8,0,0,0,1,1,0,2,0,4,0,0,0,7,0,0,,Matches
+45,Damián Arce,ar ARG,MF,ar Patronato,31,1991,1.7,0,0,0,1,2,0,15,0,0,0,0,0,5,2,2,50.0,Matches
+46,Jean Archimbaud,pe PER,"DF,MF",pe Melgar,28,1994,3.7,1,0,0,4,2,0,4,4,4,0,0,0,24,5,9,35.7,Matches
+47,Alexis Arias,pe PER,"MF,FW",pe Melgar,27,1995,2.9,1,0,0,2,6,0,6,3,4,0,0,0,21,2,1,66.7,Matches
+48,Gabriel Arias,cl CHI,GK,ar Racing Club,35,1987,9.3,0,0,0,0,3,0,0,0,0,0,0,0,3,1,0,100.0,Matches
+49,Jhon Arias,co COL,"FW,MF",br Fluminense,25,1997,12.5,2,0,0,17,23,2,73,6,16,0,0,0,80,6,15,28.6,Matches
+50,Junior Arias,uy URU,"FW,MF",bo The Strongest,29,1993,0.8,0,0,0,1,0,0,1,0,1,0,0,0,2,3,3,50.0,Matches
+51,Franco Armani,ar ARG,GK,ar River Plate,36,1986,8.3,1,0,0,1,0,0,0,0,0,0,1,0,8,0,1,0.0,Matches
+52,Jaime Arrascaita,bo BOL,"FW,DF",bo The Strongest,29,1993,4.0,1,0,0,5,5,2,2,3,3,0,0,0,18,5,9,35.7,Matches
+53,Abdiel Arroyo,pa PAN,"FW,DF",ve Monagas,29,1993,3.7,2,1,1,4,4,1,2,1,0,0,0,0,16,11,3,78.6,Matches
+54,Arthur,br BRA,MF,br Fluminense,18,2004,0.3,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,,Matches
+55,Artur,br BRA,"FW,MF",br Palmeiras,24,1998,9.5,1,0,0,5,9,2,29,4,3,0,0,0,44,8,10,44.4,Matches
+56,Iván Arturo Torres,py PAR,"MF,DF",py Olimpia,31,1991,6.5,3,0,0,3,5,0,7,9,5,0,0,0,30,7,4,63.6,Matches
+57,Martin Aruga,ar ARG,DF,ar Patronato,24,1998,0.0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,,Matches
+58,Adrián Ascues,pe PER,MF,pe Sporting Cristal,20,2002,0.2,1,0,0,1,0,1,0,0,0,0,0,0,2,1,1,50.0,Matches
+59,Jayder Asprilla,co COL,"FW,MF",co Nacional,19,2003,0.8,1,0,0,5,0,0,0,0,0,0,0,0,2,4,4,50.0,Matches
+60,Felipe Augusto,br BRA,FW,br Corinthians,18,2004,0.9,0,0,0,2,0,0,1,1,1,0,0,0,0,4,2,66.7,Matches
+61,Renato Augusto,br BRA,"MF,FW",br Corinthians,34,1988,0.9,0,0,0,0,1,0,6,1,0,0,0,0,6,0,0,,Matches
+62,Gabriel Ávalos,py PAR,FW,ar Arg Juniors,32,1990,5.3,1,0,0,9,6,3,5,3,1,0,0,0,13,14,20,41.2,Matches
+63,Irven Ávila,pe PER,FW,pe Sporting Cristal,32,1990,0.5,0,0,0,0,1,3,0,0,0,0,0,0,0,0,2,0.0,Matches
+64,Tomás Avilés,ar ARG,MF,ar Racing Club,18,2004,1.6,0,0,0,3,0,1,0,3,4,0,0,0,9,3,6,33.3,Matches
+65,Gabriel Báez,ar ARG,DF,uy Nacional,27,1995,2.3,0,0,0,0,1,1,5,2,1,0,0,0,8,3,0,100.0,Matches
+66,Gabriel Báez,ar ARG,DF,py Cerro Porteño,27,1995,4.2,0,1,0,7,2,1,18,6,4,0,0,0,30,7,4,63.6,Matches
+67,Adrián Balboa,uy URU,FW,co Pereira,29,1994,1.6,0,0,0,3,5,1,1,0,0,0,0,0,6,8,5,61.5,Matches
+68,Fabián Balbuena,py PAR,DF,br Corinthians,31,1991,2.0,0,0,0,1,2,0,1,5,2,0,0,0,6,10,6,62.5,Matches
+69,Josepmir Ballón,pe PER,MF,pe Alianza Lima,34,1988,5.4,2,0,0,7,1,0,0,6,2,0,0,0,30,7,4,63.6,Matches
+70,Danovis Banguero,co COL,DF,co Nacional,33,1989,3.0,1,0,0,5,2,0,6,1,2,0,0,0,25,4,0,100.0,Matches
+71,Gabriel Baralhas,br BRA,MF,br Internacional,24,1998,1.1,1,0,0,0,3,0,1,3,1,0,0,0,10,2,1,66.7,Matches
+72,Diogo Barbosa,br BRA,"DF,MF",br Fluminense,30,1992,3.8,0,0,0,1,3,0,2,1,5,0,0,0,16,1,2,33.3,Matches
+73,Gabriel Barbosa,br BRA,FW,br Flamengo,26,1996,6.3,1,0,0,1,3,3,10,0,2,0,0,0,7,2,0,100.0,Matches
+74,Alexander Barboza,ar ARG,DF,py Libertad,27,1995,6.0,3,0,0,12,2,0,6,12,9,0,0,0,45,30,7,81.1,Matches
+75,Ezequiel Barco,ar ARG,"FW,MF",ar River Plate,23,1999,7.0,1,0,0,5,21,0,15,3,5,1,0,0,40,0,1,0.0,Matches
+76,Valentín Barco,ar ARG,"MF,DF",ar Boca Juniors,18,2004,7.1,3,0,0,6,26,0,52,6,8,0,0,0,45,1,4,20.0,Matches
+77,Hernán Barcos,ar ARG,FW,pe Alianza Lima,38,1984,2.2,0,0,0,5,7,2,0,1,1,0,0,0,6,9,15,37.5,Matches
+78,Antonio Bareiro,py PAR,MF,py Libertad,33,1989,0.4,0,0,0,1,1,1,0,0,0,0,0,0,1,1,2,33.3,Matches
+79,Francisco Bareiro,py PAR,"FW,MF",ve Metropolitanos,23,1999,1.8,0,0,0,5,3,0,2,0,1,0,0,0,5,11,6,64.7,Matches
+80,Juan Barinaga,ar ARG,MF,ar Patronato,22,2000,2.8,0,0,0,2,2,0,14,1,2,0,0,0,14,0,1,0.0,Matches
+81,Jarlan Barrera,co COL,"MF,FW",co Nacional,27,1995,1.4,1,0,0,2,2,0,2,2,0,0,0,0,7,1,0,100.0,Matches
+82,Orlando Barreto,py PAR,"DF,MF",py Olimpia,25,1998,1.3,0,0,0,0,1,0,0,1,1,0,0,0,10,0,1,0.0,Matches
+83,Martín Barrios,uy URU,MF,uy Liverpool,24,1999,2.5,0,0,0,2,1,0,0,1,3,0,0,0,18,1,0,100.0,Matches
+84,Fernando Basante,ve VEN,"FW,MF",ve Monagas,19,2003,3.1,1,0,0,10,4,1,1,0,5,0,0,0,14,7,10,41.2,Matches
+85,Enmerson Batalla,co COL,"FW,MF",co Independiente,21,2001,2.7,0,0,0,5,4,1,15,0,2,0,0,0,18,2,1,66.7,Matches
+86,Rodrigo Battaglia,ar ARG,MF,br Atlético Mineiro,31,1991,6.6,2,0,0,10,7,1,3,8,12,0,0,0,41,28,15,65.1,Matches
+87,Jonathan Bauman,ar ARG,"FW,MF",ec Barcelona,31,1991,1.9,0,0,0,4,4,0,3,0,1,0,0,0,9,2,2,50.0,Matches
+88,Diego Bejarano,bo BOL,"MF,DF",bo Bolívar,31,1991,8.5,2,0,0,6,4,1,13,12,4,0,0,0,41,10,14,41.7,Matches
+89,Lucas Beltrán,ar ARG,FW,ar River Plate,21,2001,7.6,1,0,0,13,11,2,2,5,5,1,0,0,27,6,25,19.4,Matches
+90,Darío Benedetto,ar ARG,FW,ar Boca Juniors,32,1990,4.4,2,0,0,6,7,1,3,0,5,0,0,0,9,4,13,23.5,Matches
+91,Leandro Benegas,cl CHI,FW,cl Colo-Colo,34,1988,0.5,0,0,0,2,0,1,1,0,2,0,0,0,1,3,3,50.0,Matches
+92,Bryan Bentaberry,uy URU,DF,bo Bolívar,26,1997,10.1,4,0,0,7,18,0,12,11,10,0,1,0,65,11,6,64.7,Matches
+93,Rubén Bentancourt,uy URU,FW,uy Liverpool,29,1993,4.8,2,0,0,7,5,5,2,1,1,0,0,0,9,11,9,55.0,Matches
+94,Bento,br BRA,GK,br Ath Paranaense,23,1999,8.3,1,0,0,0,0,0,0,0,0,0,0,0,5,1,0,100.0,Matches
+95,Matheus Bidu,br BRA,DF,br Corinthians,23,1999,2.5,0,0,0,0,6,0,11,7,5,0,0,0,19,1,1,50.0,Matches
+96,Biro,br BRA,MF,br Corinthians,18,2004,0.2,1,0,0,2,0,0,0,0,0,0,0,0,2,0,0,,Matches
+97,Mariano Bíttolo,ar ARG,DF,ar Arg Juniors,32,1990,0.8,0,0,0,0,1,0,5,0,2,0,0,0,3,0,0,,Matches
+98,Cristian Blanco,co COL,DF,co Nacional,24,1999,0.2,0,0,0,0,0,0,1,0,1,0,0,0,4,0,0,,Matches
+99,Anthony Blondell,ve VEN,"DF,MF",ve Monagas,28,1994,0.1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0.0,Matches
+100,Damián Bobadilla,py PAR,MF,py Cerro Porteño,21,2001,4.6,0,0,0,4,2,0,0,5,7,1,0,0,34,3,3,50.0,Matches
+101,Daniel Bocanegra,co COL,DF,uy Nacional,35,1987,2.3,0,0,0,1,1,0,0,2,3,0,0,0,12,1,0,100.0,Matches
+102,Johan Bocanegra,co COL,"MF,FW",co Pereira,24,1998,5.7,4,0,0,5,14,0,25,4,5,0,0,0,38,4,6,40.0,Matches
+103,Marcos Bolados,cl CHI,FW,cl Colo-Colo,26,1996,4.2,1,0,0,7,5,6,18,2,3,1,0,0,10,9,15,37.5,Matches
+104,Cristian Bordacahar,ar ARG,"DF,FW",pe Melgar,31,1991,5.5,1,0,0,1,5,4,37,2,3,0,0,0,29,6,10,37.5,Matches
+105,Miguel Borja,co COL,FW,ar River Plate,30,1993,0.9,1,0,0,0,1,1,0,0,0,0,0,0,3,5,3,62.5,Matches
+106,Agustín Bouzat,ar ARG,DF,cl Colo-Colo,28,1994,5.7,2,0,0,11,2,1,20,10,15,0,0,0,51,7,6,53.8,Matches
+107,David Braz,br BRA,"DF,FW",br Fluminense,35,1987,1.0,1,0,0,1,0,0,0,0,0,0,0,0,3,2,1,66.7,Matches
+108,Breno,br BRA,FW,br Palmeiras,27,1996,1.5,0,0,0,0,6,0,4,1,0,0,0,0,4,1,4,20.0,Matches
+109,Norberto Briasco,am ARM,FW,ar Boca Juniors,26,1996,1.4,1,0,0,2,2,0,7,0,3,0,0,0,8,1,1,50.0,Matches
+110,Ronald Briones,ec ECU,DF,ec SD Aucas,22,2000,0.5,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,100.0,Matches
+111,Sebastián Britos,uy URU,GK,uy Liverpool,35,1988,6.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,,Matches
+112,Eduardo Brock,br BRA,DF,py Cerro Porteño,31,1991,4.2,0,0,0,1,0,0,2,1,13,0,0,0,28,17,11,60.7,Matches
+113,Facundo Bruera,ar ARG,FW,py Olimpia,24,1998,1.5,0,0,0,1,1,1,0,0,3,0,0,0,8,7,7,50.0,Matches
+114,Fabrício Bruno,br BRA,DF,br Flamengo,26,1996,6.0,0,0,0,5,2,0,3,3,6,0,0,0,40,14,7,66.7,Matches
+115,Matías Budiño,ar ARG,GK,ar Patronato,27,1995,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,100.0,Matches
+116,Vitor Bueno,br BRA,"MF,FW",br Ath Paranaense,28,1994,2.8,0,0,0,2,1,0,7,0,2,0,0,0,6,1,5,16.7,Matches
+117,Javier Burrai,ec ECU,GK,ec Barcelona,32,1990,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,100.0,Matches
+118,Fabricio Bustos,ar ARG,DF,br Internacional,26,1996,5.8,1,0,0,4,5,0,9,1,6,0,0,0,30,1,3,25.0,Matches
+119,Catriel Cabellos,pe PER,FW,ar Racing Club,18,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+120,Esnaider Cabezas,ec ECU,DF,ec Independiente,23,1999,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0.0,Matches
+121,Jorge Cabezas,co COL,"FW,MF",co Independiente,19,2003,0.4,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,,Matches
+122,Jorge Cabezudo,pe PER,GK,pe Melgar,21,2001,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+123,Rodrigo Cabral,ar ARG,DF,ar Arg Juniors,22,2000,0.2,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,,Matches
+124,Javier Cabrera,uy URU,"FW,DF",ar Arg Juniors,30,1992,7.4,0,0,0,3,8,1,46,2,12,0,0,0,48,6,6,50.0,Matches
+125,Kenji Cabrera,pe PER,MF,pe Melgar,20,2003,1.4,0,0,0,1,3,0,9,1,3,0,0,0,3,1,1,50.0,Matches
+126,Maicol Cabrera,uy URU,FW,uy Liverpool,26,1996,1.3,0,0,0,2,2,2,0,1,0,0,0,0,3,4,2,66.7,Matches
+127,Cacá,br BRA,DF,br Ath Paranaense,23,1999,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,50.0,Matches
+128,Carlos Cáceda,pe PER,GK,pe Melgar,31,1991,5.0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,,Matches
+129,Andrés Cadavid,co COL,DF,co Independiente,37,1985,5.0,2,0,0,5,0,0,2,4,4,0,0,0,29,15,7,68.2,Matches
+130,Caetano,br BRA,DF,br Corinthians,23,1999,1.2,0,0,0,0,1,0,0,0,2,0,0,0,3,1,1,50.0,Matches
+131,Beder Caicedo,ec ECU,DF,ec Independiente,30,1992,1.3,0,0,0,3,0,0,5,0,0,0,0,0,5,4,3,57.1,Matches
+132,Edison Caicedo,ec ECU,MF,ec SD Aucas,32,1990,3.9,1,1,0,5,9,0,1,5,5,0,0,0,25,3,1,75.0,Matches
+133,Rodrigo Caio,br BRA,DF,br Flamengo,29,1993,1.2,0,0,0,0,1,0,0,1,1,0,0,0,4,3,0,100.0,Matches
+134,Christian Camarillo,ve VEN,DF,ve Metropolitanos,20,2002,1.0,0,0,0,1,0,0,0,4,0,0,0,0,3,2,2,50.0,Matches
+135,Diber Cambindo,co COL,"FW,MF",co Independiente,26,1996,2.0,1,0,0,4,2,2,0,0,0,0,0,0,5,2,5,28.6,Matches
+136,Gustavo Campanharo,br BRA,MF,br Internacional,30,1992,2.2,1,0,0,7,6,0,0,3,2,0,0,0,13,6,5,54.5,Matches
+137,Ángelo Campos,pe PER,GK,pe Alianza Lima,29,1993,5.0,0,0,0,0,0,0,0,1,1,0,0,0,8,0,0,,Matches
+138,Giovanni Campusano,cl CHI,DF,cl Ñublense,30,1993,3.8,0,0,0,6,3,0,19,5,1,0,0,0,16,6,4,60.0,Matches
+139,Álvaro Campuzano,py PAR,MF,py Libertad,27,1995,5.0,3,0,0,4,7,0,2,5,19,0,0,0,48,9,8,52.9,Matches
+140,Jorman Campuzano,co COL,MF,ar Boca Juniors,26,1996,1.0,0,0,0,1,3,0,0,1,2,0,0,0,11,3,0,100.0,Matches
+141,Yerson Candelo,co COL,"MF,DF",co Nacional,30,1992,3.7,1,0,0,0,1,0,18,2,4,0,0,0,18,1,1,50.0,Matches
+142,Camilo Cándido,uy URU,DF,uy Nacional,27,1995,4.7,3,0,0,8,1,0,20,11,8,0,0,0,34,3,1,75.0,Matches
+143,Luis Cangá,ec ECU,DF,ec SD Aucas,27,1995,5.0,1,0,0,2,2,0,0,5,12,0,0,0,29,8,8,50.0,Matches
+144,Germán Cano,ar ARG,FW,br Fluminense,34,1988,12.0,3,0,0,17,12,13,4,6,4,0,0,0,23,7,18,28.0,Matches
+145,Luis Cano,ec ECU,"MF,DF",ec SD Aucas,23,1999,2.1,0,0,0,2,5,2,8,1,4,0,0,0,13,2,2,50.0,Matches
+146,Agustín Canobbio,uy URU,"FW,MF",br Ath Paranaense,24,1998,5.3,1,0,0,7,11,1,7,3,6,0,0,0,32,1,5,16.7,Matches
+147,Maximiliano Cantera,uy URU,FW,co Nacional,29,1993,1.0,0,0,0,0,3,0,0,0,1,0,0,0,5,4,2,66.7,Matches
+148,Víctor Cantillo,co COL,MF,br Corinthians,29,1993,1.0,0,0,0,2,1,0,3,5,1,0,0,0,8,3,0,100.0,Matches
+149,Mateo Carabajal,ar ARG,DF,ec Independiente,25,1997,6.9,2,0,0,3,10,0,2,8,10,0,0,1,40,16,11,59.3,Matches
+150,Franklin Carabalí,ec ECU,DF,ec SD Aucas,26,1996,0.8,0,0,0,0,1,0,2,2,0,0,0,0,3,2,1,66.7,Matches
+151,Michael Carcelen,ec ECU,"MF,DF",ec SD Aucas,25,1997,0.9,1,0,0,2,2,0,3,0,1,0,0,0,10,2,2,50.0,Matches
+152,Edwin Cardona,co COL,FW,ar Racing Club,30,1992,0.2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,,Matches
+153,Johnny Cardoso,us USA,MF,br Internacional,21,2001,9.7,2,0,0,14,8,0,1,18,16,0,0,0,53,20,10,66.7,Matches
+154,Ángel Cardozo,py PAR,MF,py Cerro Porteño,28,1994,2.2,1,0,0,3,4,0,2,2,5,0,0,0,17,3,0,100.0,Matches
+155,Luis Cardozo,py PAR,DF,py Libertad,34,1988,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+156,Óscar Cardozo,py PAR,FW,py Libertad,39,1983,2.4,0,0,0,5,2,0,0,0,0,0,0,0,4,18,17,51.4,Matches
+157,Roberto Carlos Fernández,bo BOL,"MF,DF",bo Bolívar,23,1999,4.9,2,1,0,8,6,0,17,6,3,0,0,0,19,4,8,33.3,Matches
+158,Rafael Caroca,cl CHI,DF,cl Ñublense,33,1989,5.0,3,0,0,3,5,0,0,11,9,0,0,0,23,5,4,55.6,Matches
+159,Rafael Carrascal,co COL,MF,py Cerro Porteño,30,1992,3.6,1,0,0,8,5,0,2,5,11,0,0,0,53,2,0,100.0,Matches
+160,Federico Carrizo,ar ARG,"MF,FW",py Cerro Porteño,31,1991,4.1,0,0,0,3,3,2,11,3,2,0,0,0,19,0,0,,Matches
+161,Alan Carvalho,cn CHN,DF,br Fluminense,33,1989,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+162,Milton Casco,ar ARG,DF,ar River Plate,34,1988,6.9,0,0,0,10,4,0,20,6,4,0,0,0,46,8,8,50.0,Matches
+163,Cássio,br BRA,GK,br Corinthians,35,1987,4.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Matches
+164,Diego Castillo,co COL,"MF,FW",ve Metropolitanos,23,1999,0.8,0,0,0,0,1,0,2,0,1,0,0,0,10,2,3,40.0,Matches
+165,Edson Castillo,ve VEN,"MF,DF",ve Monagas,28,1994,4.3,2,0,0,7,5,1,0,7,2,0,0,0,20,8,12,40.0,Matches
+166,Erick Castillo,ec ECU,FW,ec SD Aucas,27,1995,5.2,2,0,0,4,3,3,7,2,0,0,0,0,12,10,10,50.0,Matches
+167,Fabián Castillo,co COL,FW,cl Colo-Colo,30,1992,0.6,0,0,0,2,0,0,0,0,0,0,0,0,2,1,1,50.0,Matches
+168,Gonzalo Castillo,uy URU,DF,bo The Strongest,32,1990,6.0,0,0,0,5,0,0,0,8,3,0,0,0,22,10,10,50.0,Matches
+169,Harlen Castillo,co COL,GK,co Nacional,29,1993,4.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,100.0,Matches
+170,Jesús Castillo,pe PER,"MF,DF",pe Sporting Cristal,21,2001,4.8,3,0,0,8,3,0,2,6,4,0,0,0,34,2,4,33.3,Matches
+171,Jesús Castillo,pe PER,MF,pe Alianza Lima,26,1996,5.8,3,0,0,13,12,0,5,9,11,0,0,0,31,11,11,50.0,Matches
+172,Chory Castro,uy URU,FW,uy Nacional,38,1984,0.8,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,,Matches
+173,Cristian Castro,co COL,DF,co Nacional,22,2001,5.7,1,0,0,2,2,0,2,4,2,0,0,0,25,3,3,50.0,Matches
+174,Edinson Cavani,uy URU,FW,ar Boca Juniors,35,1987,6.3,2,0,0,9,7,4,0,2,5,0,0,0,27,10,17,37.0,Matches
+175,Sebastian Cavero,pe PER,DF,pe Melgar,20,2002,1.7,2,0,0,3,0,0,10,2,3,0,0,0,7,1,1,50.0,Matches
+176,Bernardo Cerezo,cl CHI,DF,cl Ñublense,28,1995,6.0,0,0,0,4,1,0,11,6,9,0,0,0,27,8,8,50.0,Matches
+177,Carlos Cermeño,ve VEN,MF,ve Metropolitanos,27,1995,3.8,1,0,0,2,7,0,8,4,2,0,0,0,20,0,1,0.0,Matches
+178,Murilo Cerqueira,br BRA,DF,br Palmeiras,25,1997,6.6,1,0,0,11,2,0,1,7,5,0,0,0,37,18,9,66.7,Matches
+179,Edwuin Cetré,co COL,"FW,MF",co Independiente,25,1998,3.5,1,0,0,3,7,0,18,2,3,0,0,0,18,3,2,60.0,Matches
+180,Jeison Chala,ec ECU,MF,ec SD Aucas,28,1994,0.5,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,,Matches
+181,Edinson Chávez,pe PER,DF,pe Alianza Lima,29,1993,0.8,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,,Matches
+182,Gianfranco Chávez,pe PER,DF,pe Sporting Cristal,24,1998,4.3,2,1,1,2,2,0,0,13,4,0,0,0,28,7,5,58.3,Matches
+183,Lucas Chávez,bo BOL,"FW,MF",bo Bolívar,19,2003,1.7,0,0,0,0,3,0,3,0,4,0,0,0,8,0,2,0.0,Matches
+184,Chico,br BRA,FW,co Nacional,27,1995,1.0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,6,0.0,Matches
+185,Chico,br BRA,FW,bo Bolívar,27,1995,3.8,1,0,0,4,6,6,4,0,1,0,0,0,8,7,8,46.7,Matches
+186,Christian,br BRA,"MF,DF",br Ath Paranaense,22,2000,3.0,1,0,0,5,8,0,6,2,2,0,0,0,16,3,6,33.3,Matches
+187,Jeyson Chura,bo BOL,FW,bo The Strongest,20,2002,2.2,0,0,0,3,3,0,9,0,0,0,0,0,9,1,1,50.0,Matches
+188,Diego Churín,ar ARG,FW,py Cerro Porteño,33,1989,4.6,2,0,0,14,17,1,3,1,3,1,0,0,17,19,23,45.2,Matches
+189,Jhon Cifuente,ec ECU,FW,ec SD Aucas,30,1992,2.7,0,0,0,3,1,1,0,0,0,0,0,0,6,3,8,27.3,Matches
+190,Marcelo Cirino,br BRA,FW,br Ath Paranaense,31,1992,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+191,Rodrigo Cisterna,cl CHI,FW,cl Ñublense,20,2002,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+192,Sebastián Claure,bo BOL,FW,bo The Strongest,23,1999,0.2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Matches
+193,Facundo Cobos,ar ARG,DF,ar Patronato,29,1993,3.9,0,0,0,5,9,0,26,6,6,0,0,0,35,4,7,36.4,Matches
+194,Facundo Colidio,ar ARG,DF,ar River Plate,23,2000,0.4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+195,Lautaro Comas,ar ARG,FW,ar Patronato,28,1995,0.3,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,,Matches
+196,Jairo Concha,pe PER,MF,pe Alianza Lima,23,1999,1.2,0,0,0,0,1,0,7,0,0,0,0,0,12,0,1,0.0,Matches
+197,Yimmi Congo,co COL,MF,co Pereira,24,1998,0.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Matches
+198,Juan Córdova,ca CAN,DF,cl Ñublense,27,1995,1.9,0,0,0,2,2,0,3,2,4,0,0,0,9,4,2,66.7,Matches
+199,Diego Corozo,ec ECU,DF,ec SD Aucas,32,1990,0.5,1,0,0,2,0,0,0,0,0,0,0,0,0,1,1,50.0,Matches
+200,Janner Corozo,ec ECU,"FW,MF",ec Barcelona,27,1995,4.2,0,0,0,4,9,0,8,1,2,1,0,0,25,4,8,33.3,Matches
+201,Washington Corozo,ec ECU,"FW,MF",pe Sporting Cristal,24,1998,2.2,1,0,0,4,4,4,5,0,0,0,0,0,8,4,1,80.0,Matches
+202,Brayan Cortés,cl CHI,GK,cl Colo-Colo,27,1995,3.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,100.0,Matches
+203,Gabriel Cortez,ec ECU,MF,ec Barcelona,27,1995,0.7,0,0,0,0,0,0,3,1,0,0,0,0,1,1,0,100.0,Matches
+204,Gustavo Cortez,ec ECU,DF,ec Independiente,25,1997,3.0,0,0,0,4,0,1,6,6,6,0,0,0,17,0,0,,Matches
+205,Gabriel Costa,pe PER,"FW,MF",pe Alianza Lima,32,1990,1.1,0,0,0,0,2,0,9,0,1,0,0,0,8,1,0,100.0,Matches
+206,Néstor Cova,ve VEN,DF,ve Metropolitanos,27,1995,4.7,2,0,0,4,5,0,2,8,5,0,0,0,24,1,3,25.0,Matches
+207,Tomás Cuello,ar ARG,FW,br Ath Paranaense,22,2000,1.9,1,0,0,4,2,1,5,0,1,0,0,0,11,3,1,75.0,Matches
+208,Carlos Cuero,ec ECU,DF,ec SD Aucas,26,1996,5.9,0,0,0,5,7,1,7,8,5,0,0,0,24,5,5,50.0,Matches
+209,Bernardo Cuesta,ar ARG,FW,pe Melgar,34,1988,5.9,1,0,0,1,4,8,7,0,2,0,0,0,18,5,12,29.4,Matches
+210,Christian Cueva,pe PER,"MF,FW",pe Alianza Lima,31,1991,2.7,0,0,0,3,9,0,7,3,3,0,0,0,10,2,5,28.6,Matches
+211,Harold Cummings,pa PAN,DF,ve Monagas,30,1992,4.0,2,0,0,5,2,0,0,6,3,0,0,0,33,7,11,38.9,Matches
+212,Matheus Cunha,br BRA,GK,br Flamengo,21,2001,5.0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,1,50.0,Matches
+213,Ian Custódio,br BRA,DF,br Palmeiras,19,2003,0.2,0,0,0,2,0,0,2,0,0,0,0,0,3,0,0,,Matches
+214,Jhamir D'Arrigo,pe PER,"MF,DF",pe Melgar,23,1999,2.2,0,0,0,0,6,1,2,2,1,2,0,0,8,1,1,50.0,Matches
+215,Robert Piris Da Motta,py PAR,DF,py Cerro Porteño,28,1994,5.0,2,0,0,5,3,0,0,9,10,0,0,1,26,8,6,57.1,Matches
+216,Bruno Damiani,uy URU,FW,uy Nacional,20,2002,1.8,1,0,0,5,9,0,0,0,4,0,0,0,10,7,12,36.8,Matches
+217,Danielzinho,br BRA,"MF,FW",br Fluminense,27,1996,0.2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,,Matches
+218,Aubrey David,tt TRI,DF,ec SD Aucas,32,1990,2.5,2,1,1,3,3,0,0,1,1,1,0,0,9,5,0,100.0,Matches
+219,Fernando David Cardozo,py PAR,"MF,FW",py Olimpia,21,2001,9.7,4,1,1,28,13,5,24,0,11,0,0,0,49,11,10,52.4,Matches
+220,Jonathan David Gómez,ar ARG,MF,ar Racing Club,33,1989,7.0,2,0,0,15,14,0,9,8,19,0,0,0,44,7,10,41.2,Matches
+221,Giorgian De Arrascaeta,uy URU,"MF,FW",br Flamengo,28,1994,3.9,1,0,0,4,7,0,26,2,7,0,0,0,19,2,3,40.0,Matches
+222,Nicolás De La Cruz,uy URU,"MF,FW",ar River Plate,25,1997,6.1,2,0,0,14,13,1,17,4,9,0,0,0,31,6,4,60.0,Matches
+223,Matías De los Santos,uy URU,DF,cl Colo-Colo,30,1992,0.2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0,Matches
+224,Ronaldo Dejesús,py PAR,MF,py Cerro Porteño,,,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+225,Alec Deneumostier,pe PER,DF,pe Melgar,23,1999,5.4,2,0,0,8,2,0,0,9,11,0,1,0,45,13,10,56.5,Matches
+226,Nelson Deossa,co COL,"MF,FW",co Nacional,22,2000,4.8,2,0,0,9,12,0,2,4,9,0,0,0,40,6,6,50.0,Matches
+227,Marco Di Cesare,ar ARG,DF,ar Arg Juniors,21,2002,3.2,2,0,0,1,1,0,0,3,3,0,0,0,18,5,5,50.0,Matches
+228,Jean Dias,br BRA,FW,br Internacional,32,1990,0.1,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,,Matches
+229,Matheus Dias,br BRA,"MF,FW",br Internacional,25,1997,0.3,0,0,0,1,0,0,0,1,1,0,0,0,4,0,2,0.0,Matches
+230,Damián Díaz,ec ECU,"MF,FW",ec Barcelona,36,1986,4.0,3,0,0,3,12,0,21,0,2,0,0,0,18,1,2,33.3,Matches
+231,Enzo Díaz,ar ARG,DF,ar River Plate,27,1995,5.4,2,1,0,11,7,0,15,4,9,0,0,0,29,7,6,53.8,Matches
+232,Fabricio Díaz,uy URU,MF,uy Liverpool,19,2003,1.7,0,0,0,1,1,0,0,2,2,0,0,0,14,0,2,0.0,Matches
+233,Lautaro Díaz,ar ARG,FW,ec Independiente,24,1998,5.6,1,0,0,4,3,0,4,2,1,0,0,0,8,11,5,68.8,Matches
+234,Leonardo Diaz,pe PER,DF,pe Sporting Cristal,18,2004,2.9,2,0,0,8,3,0,0,7,7,0,0,0,14,5,2,71.4,Matches
+235,Paulo Díaz,cl CHI,DF,ar River Plate,28,1994,6.5,0,0,0,3,1,0,0,13,3,0,0,0,34,10,6,62.5,Matches
+236,Sergio Díaz,py PAR,MF,py Cerro Porteño,24,1998,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Matches
+237,Dodô,br BRA,DF,br Atlético Mineiro,30,1992,1.1,0,0,0,1,0,0,2,1,5,0,0,0,7,3,6,33.3,Matches
+238,Nicolás Domingo,ar ARG,MF,ar Patronato,37,1985,5.0,3,0,0,5,5,0,1,11,6,0,0,0,41,2,1,66.7,Matches
+239,Fabricio Domínguez,uy URU,"MF,DF",ar Arg Juniors,24,1998,1.6,1,1,0,7,2,1,4,5,2,0,0,0,11,0,3,0.0,Matches
+240,Thiago dos Santos,br BRA,MF,br Fluminense,33,1989,0.8,0,0,0,1,1,0,0,1,0,0,0,0,7,0,0,,Matches
+241,Dudu,br BRA,FW,br Palmeiras,31,1992,6.8,0,0,0,2,16,1,16,3,0,0,0,0,35,1,7,12.5,Matches
+242,Jhon Duque Arias,co COL,MF,co Nacional,30,1992,3.9,1,0,0,5,8,0,1,5,9,0,0,0,29,6,4,60.0,Matches
+243,Jefferson Duque,co COL,FW,co Nacional,35,1987,3.0,0,0,0,5,4,2,0,1,0,0,0,0,8,7,17,29.2,Matches
+244,Edenílson,br BRA,MF,br Atlético Mineiro,33,1989,2.1,1,0,0,2,2,0,1,2,2,0,0,0,13,3,9,25.0,Matches
+245,Carlos Eduardo,br BRA,MF,br Atlético Mineiro,18,2004,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+246,Kauã Elias,br BRA,FW,br Fluminense,16,2006,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+247,Endrick,br BRA,"FW,MF",br Palmeiras,16,2006,1.6,1,1,0,3,3,0,1,0,1,0,0,0,6,0,4,0.0,Matches
+248,Erick,br BRA,MF,br Ath Paranaense,25,1997,7.0,0,0,0,2,7,0,0,9,13,0,0,0,30,18,11,62.1,Matches
+249,Luis Erney Vasquez,co COL,GK,co Independiente,26,1996,4.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,100.0,Matches
+250,Alberto Espínola,py PAR,DF,py Cerro Porteño,31,1991,5.4,1,0,0,7,1,0,19,8,13,0,0,0,33,11,5,68.8,Matches
+251,Juan Espínola,py PAR,GK,py Olimpia,28,1994,5.0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,0,100.0,Matches
+252,Matías Espinoza,py PAR,DF,py Libertad,25,1997,3.6,1,0,0,2,2,0,16,4,2,0,0,0,35,4,5,44.4,Matches
+253,Esquerdinha,br BRA,DF,br Fluminense,16,2006,1.0,1,0,0,2,0,0,1,0,0,0,0,0,2,1,1,50.0,Matches
+254,Juan Esquivel,ar ARG,"FW,MF",ar Patronato,22,2000,4.1,1,0,0,5,9,1,10,2,5,0,0,0,27,2,1,66.7,Matches
+255,Lucas Esquivel,ar ARG,DF,br Ath Paranaense,21,2001,2.3,0,0,0,3,2,0,7,5,1,0,0,0,20,5,2,71.4,Matches
+256,Éverson,br BRA,GK,br Atlético Mineiro,32,1990,8.0,0,0,0,0,0,0,0,0,0,0,0,0,16,4,0,100.0,Matches
+257,Víctor Ezequiel Salazar,ar ARG,DF,py Olimpia,29,1993,4.7,3,0,0,9,6,0,12,6,9,0,0,0,34,4,2,66.7,Matches
+258,Fabinho,br BRA,MF,br Palmeiras,20,2002,1.2,1,0,0,1,3,0,2,2,1,0,0,0,8,2,1,66.7,Matches
+259,Fábio,br BRA,GK,br Fluminense,42,1980,13.3,1,0,0,0,1,0,0,0,0,0,0,0,15,5,0,100.0,Matches
+260,Frank Fabra,co COL,DF,ar Boca Juniors,31,1991,11.1,2,1,0,13,5,3,27,27,11,0,0,0,75,10,7,58.8,Matches
+261,Fagner,br BRA,DF,br Corinthians,33,1989,3.4,0,0,0,3,2,0,17,3,4,0,0,0,19,2,2,50.0,Matches
+262,Franco Fagúndez,uy URU,FW,uy Nacional,22,2000,4.4,1,0,0,7,7,1,4,3,7,0,0,0,20,7,9,43.8,Matches
+263,Maximiliano Falcón,uy URU,DF,cl Colo-Colo,25,1997,5.0,3,0,0,7,9,1,1,10,5,1,0,0,48,17,6,73.9,Matches
+264,Lorenzo Faravelli,ar ARG,"MF,DF",ec Independiente,29,1993,5.4,2,0,0,4,9,0,4,3,4,0,0,0,31,0,1,0.0,Matches
+265,Alexis Fariña,py PAR,"MF,FW",py Cerro Porteño,18,2004,0.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+266,Juan Felipe Aguirre,co COL,DF,co Nacional,26,1996,4.0,1,0,0,3,3,0,0,2,0,0,1,1,15,10,5,66.7,Matches
+267,Matheus Felipe,br BRA,DF,br Ath Paranaense,24,1998,0.7,0,0,0,0,1,0,0,1,1,0,0,0,5,2,2,50.0,Matches
+268,Andrés Felipe Román,co COL,DF,co Nacional,27,1995,2.8,0,0,0,2,6,0,5,4,3,0,0,0,14,1,2,33.3,Matches
+269,Luis Felipe Zárate,py PAR,DF,py Olimpia,22,2000,5.1,1,0,0,5,2,1,0,7,5,0,0,0,24,21,11,65.6,Matches
+270,Matías Fernández Cordero,cl CHI,DF,ec Independiente,27,1995,7.7,1,0,0,3,3,0,33,2,0,0,0,0,29,1,3,25.0,Matches
+271,Ezequiél Fernández,ar ARG,MF,ar Boca Juniors,20,2002,6.3,1,0,0,3,15,0,2,4,10,0,0,0,52,5,4,55.6,Matches
+272,Fernando Fernández,py PAR,FW,py Cerro Porteño,31,1992,1.4,0,0,0,1,0,0,0,0,1,0,0,0,0,5,2,71.4,Matches
+273,Hugo Fernández,py PAR,"FW,MF",py Olimpia,25,1997,7.6,2,0,0,15,7,4,37,5,3,1,0,0,41,2,3,40.0,Matches
+274,Ignacio Fernández,ar ARG,"MF,FW",ar River Plate,33,1990,6.2,3,0,0,7,20,0,30,3,6,1,0,0,30,4,7,36.4,Matches
+275,Leonardo Fernández,uy URU,"MF,FW",br Fluminense,24,1998,0.3,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,,Matches
+276,Marcelo Fernández,py PAR,FW,py Libertad,21,2001,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+277,Ronnie Fernández,cl CHI,FW,bo Bolívar,32,1991,8.8,4,0,0,10,3,1,7,1,0,0,0,0,16,18,23,43.9,Matches
+278,Fernandinho,br BRA,MF,br Ath Paranaense,37,1985,6.1,2,0,0,10,5,0,1,8,7,0,0,0,46,11,3,78.6,Matches
+279,Fernando,br BRA,DF,br Ath Paranaense,23,1999,2.0,0,0,0,0,3,0,3,3,1,0,0,0,19,8,1,88.9,Matches
+280,Nicolás Ferreyra,ar ARG,DF,bo Bolívar,29,1993,9.3,2,0,0,18,2,1,0,18,1,0,0,0,35,19,9,67.9,Matches
+281,Andrés Ferro,ve VEN,DF,ve Metropolitanos,21,2001,5.0,2,0,0,3,0,0,0,6,3,0,1,0,19,6,0,100.0,Matches
+282,Héctor Fértoli,ar ARG,MF,ar Racing Club,28,1994,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+283,Jorge Figal,ar ARG,DF,ar Boca Juniors,28,1994,12.4,5,0,0,15,7,0,3,14,10,0,1,0,60,21,12,63.6,Matches
+284,Robinson Flores,ve VEN,"MF,FW",ve Metropolitanos,24,1998,2.9,0,0,0,4,2,1,9,1,3,0,0,0,12,1,2,33.3,Matches
+285,Jimer Fory,co COL,"DF,FW",co Pereira,20,2002,10.0,1,0,0,11,8,2,15,11,7,0,1,0,52,19,19,50.0,Matches
+286,Matheus França,br BRA,"MF,FW",br Flamengo,18,2004,1.1,0,0,0,4,2,0,1,0,1,0,0,0,3,0,1,0.0,Matches
+287,Damián Frascarelli,uy URU,GK,ec SD Aucas,37,1985,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Matches
+288,Bruno Fuchs,br BRA,DF,br Atlético Mineiro,23,1999,1.9,0,0,0,3,1,0,3,1,4,0,0,0,12,2,2,50.0,Matches
+289,César Fuentes,cl CHI,MF,cl Colo-Colo,29,1993,6.0,2,0,0,5,6,1,9,12,11,0,0,0,43,7,7,50.0,Matches
+290,Francisco Fydriszewski,ar ARG,FW,ec Barcelona,29,1993,4.2,1,0,0,6,2,1,4,1,0,0,0,0,13,17,23,42.5,Matches
+291,Gabriel,br BRA,MF,br Internacional,30,1992,0.3,0,0,0,0,1,0,0,1,1,0,0,0,5,0,0,,Matches
+292,Juan Gabriel Patiño,py PAR,DF,py Cerro Porteño,33,1989,1.5,1,0,0,3,1,0,0,2,2,0,0,0,9,0,1,0.0,Matches
+293,Fernando Gaibor,ec ECU,MF,ec Barcelona,31,1991,4.6,0,0,0,4,5,0,6,2,4,0,0,0,41,2,4,33.3,Matches
+294,Antonio Galeano,py PAR,"MF,FW",py Cerro Porteño,22,2000,1.7,0,0,0,1,0,1,15,1,0,0,0,0,6,3,3,50.0,Matches
+295,Leonel Galeano,ar ARG,DF,pe Melgar,31,1991,5.0,1,0,0,1,1,0,0,5,2,0,0,0,34,16,10,61.5,Matches
+296,Hernán Galíndez,ec ECU,GK,ec SD Aucas,35,1987,4.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+297,Baltasar Gallego,ar ARG,"FW,MF",ar Racing Club,19,2003,1.6,0,0,0,5,1,0,3,0,4,0,0,0,11,0,0,,Matches
+298,Jonathan Galván,ar ARG,"DF,FW",ar Racing Club,30,1992,1.3,0,0,0,1,0,0,2,2,1,0,0,0,7,1,1,50.0,Matches
+299,Mateo Gamarra,py PAR,DF,py Olimpia,22,2000,9.5,2,0,0,12,4,0,4,18,10,0,0,0,52,20,8,71.4,Matches
+300,Ganso,br BRA,MF,br Fluminense,33,1989,10.0,1,0,0,8,6,0,22,6,5,0,0,0,42,2,5,28.6,Matches
+301,Carlos Garcés,co COL,DF,co Pereira,21,2001,4.0,0,0,0,4,2,0,4,6,7,0,0,0,20,3,3,50.0,Matches
+302,García,br BRA,FW,br Palmeiras,21,2002,0.7,0,0,0,2,0,0,1,0,2,0,0,0,3,4,0,100.0,Matches
+303,Agustín García Basso,ar ARG,DF,ec Independiente,30,1992,5.4,2,0,0,4,2,1,10,3,1,0,0,0,31,11,3,78.6,Matches
+304,Jhon García,bo BOL,"FW,MF",bo The Strongest,22,2000,1.4,0,0,0,1,2,0,2,0,2,0,0,0,5,1,6,14.3,Matches
+305,Luan Garcia,br BRA,DF,br Palmeiras,29,1993,6.7,2,0,0,7,5,1,1,8,4,0,0,0,29,18,11,62.1,Matches
+306,Santiago García,ar ARG,DF,pe Alianza Lima,34,1988,5.0,2,0,0,6,4,0,1,17,4,0,0,1,40,11,8,57.9,Matches
+307,Lautaro Geminiani,ar ARG,"DF,MF",ar Patronato,31,1991,3.0,3,0,0,4,3,0,5,10,7,0,1,0,15,4,3,57.1,Matches
+308,Gerson,br BRA,MF,br Flamengo,25,1997,5.2,1,0,0,8,8,0,3,4,4,0,0,0,36,1,1,50.0,Matches
+309,Joel Ghirardello,ar ARG,DF,ar Patronato,27,1995,2.7,1,0,0,3,3,0,0,9,5,0,0,0,24,7,5,58.3,Matches
+310,Emmanuel Gigliotti,ar ARG,FW,uy Nacional,35,1987,1.7,0,0,0,2,1,0,0,1,0,0,0,0,5,4,3,57.1,Matches
+311,Gil,br BRA,DF,br Corinthians,35,1987,5.0,1,0,0,3,1,1,0,3,3,0,0,0,24,12,10,54.5,Matches
+312,Leonardo Gil,ar ARG,MF,cl Colo-Colo,31,1991,4.0,1,0,0,5,10,0,29,1,4,0,0,0,22,3,6,33.3,Matches
+313,Enzo Giménez,py PAR,"DF,FW",py Cerro Porteño,24,1998,1.6,1,0,0,2,4,0,4,1,2,0,0,0,11,1,1,50.0,Matches
+314,Néstor Giménez,py PAR,DF,py Libertad,25,1997,2.4,2,0,0,5,3,0,10,4,2,0,0,0,15,4,1,80.0,Matches
+315,Francisco Ginella,uy URU,MF,uy Nacional,24,1999,2.1,1,0,0,2,1,0,1,0,0,0,0,0,11,1,2,33.3,Matches
+316,Giovane,br BRA,FW,br Corinthians,19,2003,0.1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,,Matches
+317,Yeiler Goez,co COL,MF,co Nacional,23,1999,0.1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,,Matches
+318,Igor Gomes,br BRA,MF,br Atlético Mineiro,23,1999,3.0,0,0,0,3,6,1,13,2,1,0,0,0,18,9,3,75.0,Matches
+319,Igor Gomes,br BRA,DF,br Internacional,21,2001,3.5,1,0,0,6,4,0,4,4,4,0,0,0,20,6,3,66.7,Matches
+320,Darwin Gómez,ve VEN,MF,ve Metropolitanos,32,1991,2.5,0,0,0,4,5,1,19,1,2,0,0,0,8,4,1,80.0,Matches
+321,Diego Gómez,py PAR,MF,py Libertad,19,2003,5.3,1,0,0,8,11,0,13,8,5,0,0,0,43,14,8,63.6,Matches
+322,Gustavo Gómez,py PAR,DF,br Palmeiras,29,1993,11.3,4,0,0,14,9,0,2,10,9,0,0,0,41,35,18,66.0,Matches
+323,Marcos Gómez,py PAR,MF,py Olimpia,21,2001,7.3,0,0,0,11,1,0,0,10,10,0,0,0,43,3,2,60.0,Matches
+324,Sebastián Gómez,co COL,MF,co Nacional,26,1996,4.0,1,0,0,4,5,0,11,5,4,0,0,0,23,6,5,54.5,Matches
+325,Yulián Gómez,co COL,"DF,FW",co Independiente,25,1997,0.2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0.0,Matches
+326,Matheus Gonçalves,br BRA,MF,br Flamengo,17,2005,0.2,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,,Matches
+327,Luciano Gondou,ar ARG,"MF,FW",ar Arg Juniors,21,2001,1.4,1,0,0,11,3,1,1,0,1,0,0,0,3,4,5,44.4,Matches
+328,Cristian González,ar ARG,DF,ar Patronato,33,1990,6.0,2,0,0,3,3,2,0,8,7,0,1,0,47,10,7,58.8,Matches
+329,Derlis González,py PAR,"FW,MF",py Olimpia,28,1994,0.4,0,0,0,0,1,1,2,0,1,0,0,0,2,0,0,,Matches
+330,Enso Gonzalez,py PAR,FW,py Libertad,18,2005,3.2,0,0,0,5,6,2,3,1,1,0,0,0,12,4,4,50.0,Matches
+331,Francisco González,ar ARG,"MF,FW",ar Arg Juniors,25,1997,7.0,0,0,0,7,4,0,15,4,5,0,0,0,34,3,8,27.3,Matches
+332,Ramiro González Hernández,ar ARG,DF,cl Colo-Colo,32,1990,3.8,0,0,0,3,3,0,1,3,3,0,0,0,22,13,11,54.2,Matches
+333,Kevin González,ar ARG,"FW,MF",ar Patronato,27,1995,0.8,0,0,0,2,4,0,0,3,5,0,0,0,10,0,0,,Matches
+334,Leonel González,ar ARG,DF,ar Arg Juniors,28,1994,1.8,0,0,0,0,0,0,1,4,3,0,0,0,18,4,4,50.0,Matches
+335,Óscar González,ve VEN,DF,ve Monagas,31,1992,3.0,1,0,0,4,2,1,8,8,5,0,1,0,22,2,2,50.0,Matches
+336,Leandro González Pirez,ar ARG,DF,ar River Plate,30,1992,4.7,4,1,1,10,3,0,0,4,7,0,0,0,29,9,2,81.8,Matches
+337,Walter González,py PAR,FW,py Olimpia,27,1995,2.1,1,0,0,4,5,2,0,0,0,0,0,0,5,10,18,35.7,Matches
+338,Yony González,co COL,"DF,FW",br Fluminense,28,1994,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,Matches
+339,Joao Grimaldo,pe PER,"FW,MF",pe Sporting Cristal,19,2003,4.4,0,0,0,6,3,0,8,3,3,0,0,0,18,5,2,71.4,Matches
+340,Carlos Gruezo,ec ECU,DF,ve Metropolitanos,22,2000,3.2,0,0,0,1,1,0,0,4,0,0,0,1,10,5,3,62.5,Matches
+341,Roger Guedes,br BRA,"FW,MF",br Corinthians,26,1996,4.8,0,0,0,2,6,3,7,2,0,0,0,0,12,8,5,61.5,Matches
+342,Enzo Guerrero,cl CHI,DF,cl Ñublense,32,1991,1.9,0,0,0,2,1,0,0,1,2,0,0,0,13,5,1,83.3,Matches
+343,Paolo Guerrero,pe PER,FW,ar Racing Club,39,1984,2.8,0,0,0,5,5,2,0,0,3,0,0,0,7,11,15,42.3,Matches
+344,David Guevara,ve VEN,"MF,FW",ve Monagas,21,2001,0.0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,,Matches
+345,Guga,br BRA,DF,br Fluminense,24,1998,3.5,0,0,0,3,0,0,5,3,5,0,0,0,10,3,2,60.0,Matches
+346,Luis Guilherme,br BRA,"FW,DF",br Palmeiras,16,2006,0.7,0,0,0,0,1,0,5,0,0,0,0,0,3,1,0,100.0,Matches
+347,Ryan Gustavo,br BRA,MF,br Corinthians,19,2003,0.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Matches
+348,Bruno Gutiérrez,cl CHI,DF,cl Colo-Colo,20,2002,1.7,0,0,0,6,1,0,9,2,7,0,0,0,13,2,1,66.7,Matches
+349,Daniel Gutiérrez,cl CHI,DF,cl Colo-Colo,19,2003,3.4,1,0,0,3,5,1,3,2,4,0,0,0,25,8,6,57.1,Matches
+350,Gabriel Hauche,ar ARG,FW,ar Racing Club,36,1986,6.5,4,1,1,9,8,4,16,0,11,0,0,0,34,0,4,0.0,Matches
+351,Thiago Heleno,br BRA,DF,br Ath Paranaense,34,1988,6.0,4,1,1,6,1,0,0,12,3,0,0,0,31,18,10,64.3,Matches
+352,Thiago Helguera,uy URU,MF,uy Nacional,16,2006,0.9,0,0,0,0,0,0,0,1,1,0,0,0,9,1,2,33.3,Matches
+353,Bruno Henrique,br BRA,"FW,MF",br Flamengo,32,1990,3.1,1,0,0,0,7,6,5,0,4,0,0,0,6,7,4,63.6,Matches
+354,Bruno Henrique,br BRA,MF,br Internacional,33,1989,1.2,1,0,0,1,1,1,1,0,4,0,0,0,8,0,1,0.0,Matches
+355,Dalbert Henrique,br BRA,MF,br Internacional,29,1993,0.2,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,,Matches
+356,Pedro Henrique,br BRA,DF,br Ath Paranaense,27,1995,4.9,0,0,0,2,0,0,1,8,4,0,0,0,25,15,15,50.0,Matches
+357,Pedro Henrique,br BRA,FW,br Internacional,32,1990,4.3,1,0,0,5,9,5,20,0,1,1,0,0,22,3,6,33.3,Matches
+358,Jorge Henríquez Neira,cl CHI,"MF,FW",cl Ñublense,28,1994,3.0,1,0,0,11,3,0,25,2,0,0,0,0,34,2,3,40.0,Matches
+359,Leonardo Heredia,ar ARG,"FW,DF",ar Arg Juniors,27,1996,1.3,0,0,0,1,0,0,0,0,0,0,0,0,3,8,8,50.0,Matches
+360,Diego Hernández,co COL,DF,co Pereira,22,2000,0.9,1,0,0,2,2,0,1,3,0,0,0,0,8,2,1,66.7,Matches
+361,Nicolás Hernández,co COL,DF,br Internacional,25,1998,2.3,1,1,0,6,0,0,0,2,0,0,1,0,3,1,3,25.0,Matches
+362,José Herrera,ar ARG,FW,ar Arg Juniors,17,2005,0.1,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,,Matches
+363,Marcelo Herrera,ar ARG,DF,ar River Plate,24,1998,3.5,0,0,0,1,2,0,15,8,7,0,0,0,12,4,3,57.1,Matches
+364,Santiago Herrera,ve VEN,FW,ve Monagas,23,1999,1.5,0,0,0,1,1,3,3,0,0,0,0,0,3,3,2,60.0,Matches
+365,Pablo Hervías,es ESP,"FW,MF",bo Bolívar,29,1993,2.5,0,0,0,0,8,0,23,0,1,0,0,0,8,0,0,,Matches
+366,Óscar Hinojosa,ve VEN,FW,ve Metropolitanos,16,2006,0.0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,,Matches
+367,Alejandro Hohberg,pe PER,"FW,MF",pe Sporting Cristal,31,1991,3.0,1,0,0,3,5,3,18,0,1,0,0,0,10,1,3,25.0,Matches
+368,Lucca Holanda,br BRA,FW,br Internacional,19,2003,0.7,1,0,0,2,0,1,2,0,1,0,0,0,1,2,2,50.0,Matches
+369,Michael Hoyos,ar ARG,"FW,MF",ec Independiente,31,1991,4.9,0,0,0,6,5,3,8,0,2,0,0,0,16,6,3,66.7,Matches
+370,Victor Hugo,br BRA,"MF,FW",br Flamengo,18,2004,3.0,1,0,0,8,2,0,1,1,1,0,0,0,15,1,6,14.3,Matches
+371,Hulk,br BRA,FW,br Atlético Mineiro,36,1986,7.0,1,0,0,5,26,2,29,0,9,0,0,0,15,9,17,34.6,Matches
+372,Hyoran,br BRA,"MF,DF",br Atlético Mineiro,29,1993,2.6,0,0,0,1,7,0,13,1,0,0,0,0,9,1,3,25.0,Matches
+373,Pedro Ibáñez,pe PER,DF,pe Melgar,22,2001,0.7,0,0,0,1,1,0,0,0,1,0,0,0,2,0,0,,Matches
+374,Andrés Ibargüen,co COL,FW,co Independiente,30,1992,2.1,0,0,0,1,3,0,6,0,2,0,0,0,12,1,0,100.0,Matches
+375,Luis Iberico,pe PER,"FW,MF",pe Melgar,24,1998,3.3,1,0,0,6,7,1,6,0,4,0,0,0,16,4,6,40.0,Matches
+376,Salvador Ichazo,uy URU,GK,uy Nacional,31,1992,2.3,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,100.0,Matches
+377,Ignácio,br BRA,DF,pe Sporting Cristal,26,1996,6.0,1,0,0,5,6,0,1,8,9,0,0,0,39,14,3,82.4,Matches
+378,Juan Ignacio Ramírez,uy URU,FW,uy Nacional,25,1997,5.4,1,0,0,12,6,4,3,1,4,0,0,0,10,10,15,40.0,Matches
+379,Emiliano Insúa,ar ARG,DF,ar Racing Club,34,1989,2.3,1,0,0,3,0,0,1,5,0,0,0,0,15,1,5,16.7,Matches
+380,Richard Iriarte,ve VEN,MF,ve Monagas,19,2003,1.1,0,0,0,0,1,0,0,1,3,0,0,0,8,0,1,0.0,Matches
+381,Isaac,br BRA,MF,br Atlético Mineiro,18,2004,0.3,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+382,Isaac,br BRA,MF,br Fluminense,18,2004,0.7,0,0,0,0,1,0,1,0,2,0,0,0,2,0,0,,Matches
+383,Eugenio Isnaldo,ar ARG,"FW,MF",bo The Strongest,29,1994,3.3,0,0,0,3,0,1,11,2,2,0,0,0,20,5,2,71.4,Matches
+384,Zé Ivaldo,br BRA,DF,br Ath Paranaense,25,1997,4.9,2,0,0,7,5,0,2,6,4,0,0,0,23,7,5,58.3,Matches
+385,Juan Izquierdo,uy URU,DF,uy Liverpool,25,1997,4.8,0,0,0,4,5,1,1,7,4,0,1,0,26,6,4,60.0,Matches
+386,Jader,br BRA,"MF,FW",co Nacional,19,2003,2.4,0,0,0,4,2,0,0,3,2,0,0,0,14,1,3,25.0,Matches
+387,Lucas Janson,ar ARG,"FW,MF",ar Boca Juniors,28,1994,1.8,0,0,0,3,2,0,4,2,1,0,0,0,2,3,5,37.5,Matches
+388,Jean,br BRA,GK,py Cerro Porteño,27,1995,6.0,1,0,0,0,0,0,0,0,0,0,0,0,7,2,0,100.0,Matches
+389,Jemerson,br BRA,DF,br Atlético Mineiro,30,1992,7.0,1,0,0,4,6,1,0,13,6,0,0,0,27,15,5,75.0,Matches
+390,Julio Joao Ortíz,ec ECU,"MF,DF",ec Independiente,26,1996,7.6,0,0,0,1,8,0,9,9,1,0,0,0,52,3,7,30.0,Matches
+391,John,br BRA,GK,br Internacional,26,1996,3.0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,,Matches
+392,Jhonatan Jowjow,br BRA,"FW,MF",br Palmeiras,20,2002,1.5,1,0,0,3,2,0,4,5,4,0,0,0,11,0,3,0.0,Matches
+393,Adrian Jusino,bo BOL,DF,bo The Strongest,30,1992,6.0,0,0,0,2,1,0,0,5,2,0,0,0,26,10,7,58.8,Matches
+394,Leonel Justiniano,bo BOL,MF,bo Bolívar,30,1992,6.7,2,0,0,13,2,0,32,10,3,0,0,0,41,9,4,69.2,Matches
+395,Alan Kardec,br BRA,FW,br Atlético Mineiro,34,1989,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,Matches
+396,Keiller,br BRA,GK,br Internacional,26,1996,3.0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,100.0,Matches
+397,John Kennedy,br BRA,"FW,DF",br Fluminense,20,2002,5.0,5,1,1,9,6,4,2,0,3,0,0,0,9,6,10,37.5,Matches
+398,Keno,br BRA,"FW,MF",br Fluminense,33,1989,8.6,1,0,0,3,17,1,22,5,9,0,0,0,33,6,8,42.9,Matches
+399,Kevin,br BRA,"DF,FW",br Palmeiras,20,2003,0.9,0,0,0,0,2,0,3,0,1,0,0,0,2,0,0,,Matches
+400,Khellven,br BRA,DF,br Ath Paranaense,21,2001,6.3,0,0,0,8,2,0,17,6,10,0,0,0,37,4,6,40.0,Matches
+401,Matías Kranevitter,ar ARG,"MF,FW",ar River Plate,29,1993,0.5,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,,Matches
+402,Lucas Kruspzky,ar ARG,DF,ar Patronato,30,1992,1.9,1,0,0,6,0,0,1,4,0,0,0,0,10,1,0,100.0,Matches
+403,Ricardo Lagos,pe PER,DF,pe Alianza Lima,26,1996,5.8,1,0,0,1,2,0,16,11,10,0,0,0,36,8,13,38.1,Matches
+404,Carlos Lampe,bo BOL,GK,bo Bolívar,35,1987,10.3,0,0,0,0,2,0,0,0,1,0,0,0,18,0,0,,Matches
+405,Anthony Landazuri,ec ECU,DF,ec Independiente,25,1997,1.3,1,0,0,5,2,0,4,1,3,0,0,0,5,1,2,33.3,Matches
+406,Luca Langoni,ar ARG,"FW,MF",ar Boca Juniors,20,2002,1.1,1,0,0,1,2,0,5,0,0,0,0,0,2,1,0,100.0,Matches
+407,Federico Lanzillota,ar ARG,GK,ar Arg Juniors,30,1992,3.0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,100.0,Matches
+408,Thauan Lara,br BRA,DF,br Internacional,19,2004,2.3,0,0,0,5,5,0,11,1,0,0,0,0,14,4,3,57.1,Matches
+409,Christian Larotonda,ve VEN,MF,ve Metropolitanos,23,1999,5.8,1,0,0,8,2,0,7,14,8,0,0,0,34,3,9,25.0,Matches
+410,Pablo Lavandeira,uy URU,"MF,FW",pe Alianza Lima,32,1990,0.9,0,0,0,3,1,0,4,0,0,0,0,0,4,0,6,0.0,Matches
+411,Juan Leiva,cl CHI,MF,cl Ñublense,29,1993,5.6,1,0,0,8,4,1,3,9,7,0,0,0,39,4,5,44.4,Matches
+412,Lelê,br BRA,"FW,MF",br Fluminense,25,1997,1.5,1,0,0,6,2,2,3,0,0,0,0,0,4,4,6,40.0,Matches
+413,Lucas Lemos,uy URU,MF,uy Liverpool,22,2000,2.7,1,0,0,2,0,1,0,1,2,0,0,0,23,0,1,0.0,Matches
+414,Mauricio Lemos,uy URU,DF,br Atlético Mineiro,27,1995,3.6,0,0,0,5,2,0,3,3,5,0,0,0,19,11,7,61.1,Matches
+415,Leonai,br BRA,MF,ec Barcelona,27,1995,5.0,0,0,0,10,7,0,0,9,5,0,1,0,45,5,6,45.5,Matches
+416,Edgar Leonardo Carrión,ve VEN,"FW,MF",ve Monagas,21,2001,2.3,1,0,0,6,9,2,11,0,1,0,0,0,17,3,4,42.9,Matches
+417,Mateo Levato,ar ARG,FW,ar Patronato,27,1996,2.5,1,0,0,6,3,2,0,1,0,0,0,0,3,14,20,41.2,Matches
+418,Dario Lezcano,py PAR,FW,cl Colo-Colo,32,1990,0.2,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,100.0,Matches
+419,Rubén Lezcano,py PAR,"MF,DF",py Libertad,18,2004,0.7,0,0,0,1,2,0,1,0,0,0,0,0,5,1,2,33.3,Matches
+420,Lima,br BRA,"MF,FW",br Fluminense,26,1996,6.6,1,0,0,13,12,4,11,3,6,0,0,0,38,4,12,25.0,Matches
+421,Pedro Lima,br BRA,MF,br Palmeiras,19,2003,0.3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0.0,Matches
+422,David Loaiza,co COL,"MF,FW",co Independiente,29,1993,1.3,0,0,0,5,4,0,0,3,6,0,0,0,14,3,3,50.0,Matches
+423,Marcelo Lomba,br BRA,GK,br Palmeiras,36,1986,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+424,Daniel Londoño,co COL,DF,co Independiente,28,1995,6.0,0,0,0,3,8,2,9,3,3,0,0,1,29,3,7,30.0,Matches
+425,José López,bo BOL,"FW,DF",bo The Strongest,19,2003,0.2,0,0,0,1,1,0,0,0,1,0,0,0,2,0,1,0.0,Matches
+426,José López,ar ARG,FW,br Palmeiras,22,2000,3.8,0,0,0,5,5,2,1,4,3,0,0,0,20,7,13,35.0,Matches
+427,Jhilmar Lora,pe PER,"DF,MF",pe Sporting Cristal,22,2000,5.6,0,0,0,5,1,0,11,6,8,0,0,0,21,9,6,60.0,Matches
+428,Nilson Loyola,pe PER,DF,pe Sporting Cristal,28,1994,1.0,1,0,0,2,0,0,0,1,1,0,0,0,6,1,1,50.0,Matches
+429,Leandro Lozano,uy URU,DF,uy Nacional,24,1998,7.9,1,0,0,10,7,0,23,11,12,0,0,0,41,5,8,38.5,Matches
+430,Ayrton Lucas,br BRA,DF,br Flamengo,25,1997,4.7,0,0,0,6,9,0,11,0,5,0,0,0,28,6,4,60.0,Matches
+431,Angelo Lucena,ve VEN,MF,ve Metropolitanos,20,2003,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+432,Filipe Luís,br BRA,DF,br Flamengo,37,1985,3.6,1,0,0,3,5,0,3,4,4,0,0,0,15,5,5,50.0,Matches
+433,David Luiz,br BRA,DF,br Flamengo,35,1987,5.8,0,0,0,5,0,0,2,6,4,0,0,0,23,18,14,56.3,Matches
+434,Rafael Lutiger,pe PER,DF,pe Sporting Cristal,21,2001,3.0,3,1,1,4,3,0,2,2,8,0,1,0,16,2,1,66.7,Matches
+435,Kevin Mac Allister,ar ARG,DF,ar Arg Juniors,25,1997,6.0,2,0,0,15,5,0,2,7,25,0,0,0,26,15,11,57.7,Matches
+436,Renzo Machado,uy URU,FW,uy Liverpool,17,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+437,Johan Madrid,pe PER,DF,pe Sporting Cristal,26,1996,0.2,1,0,0,2,0,0,0,1,0,0,0,0,2,0,0,,Matches
+438,Mádson,br BRA,DF,br Ath Paranaense,31,1992,2.0,1,0,0,1,2,0,2,5,3,0,0,0,7,7,2,77.8,Matches
+439,Pablo Magnín,ar ARG,"FW,DF",pe Melgar,32,1990,1.2,0,0,0,0,1,0,0,0,0,0,0,0,2,0,3,0.0,Matches
+440,Thiago Maia,br BRA,MF,br Flamengo,25,1997,5.5,1,0,0,12,2,0,1,9,7,0,0,0,47,7,2,77.8,Matches
+441,Sebastián Malimberni,ar ARG,"FW,MF",ar Patronato,24,1999,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+442,Hugo Mallo,es ESP,DF,br Internacional,31,1991,3.0,0,0,0,6,1,0,8,4,5,0,0,0,7,2,2,50.0,Matches
+443,Emanuel Mammana,ar ARG,DF,ar River Plate,26,1996,1.7,0,0,0,0,1,0,0,1,1,0,0,0,7,3,2,60.0,Matches
+444,Léo Mana,br BRA,DF,br Corinthians,18,2004,0.1,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,,Matches
+445,Juan Mancín,ve VEN,MF,ve Metropolitanos,23,2000,0.3,1,0,0,1,1,0,2,0,1,0,0,0,1,0,0,,Matches
+446,Manoel,br BRA,DF,br Fluminense,32,1990,1.0,0,0,0,0,1,0,0,2,0,0,0,0,3,1,1,50.0,Matches
+447,Jesús Manuel Sagredo,bo BOL,DF,bo Bolívar,28,1994,5.1,1,0,0,6,0,0,2,7,4,0,2,0,34,6,7,46.2,Matches
+448,Marcelo,br BRA,DF,br Fluminense,34,1988,6.5,1,1,0,4,8,1,24,8,5,0,0,0,43,4,3,57.1,Matches
+449,Jhon Marchán,ve VEN,MF,ve Metropolitanos,24,1998,1.1,0,0,0,2,4,0,8,0,1,0,0,0,10,1,2,33.3,Matches
+450,Mariano,br BRA,DF,br Atlético Mineiro,36,1986,2.8,3,1,1,8,0,0,2,2,1,0,0,0,12,4,5,44.4,Matches
+451,Marinho,br BRA,DF,br Flamengo,32,1990,1.3,0,0,0,2,6,0,8,0,3,0,0,0,9,3,2,60.0,Matches
+452,Marlon,br BRA,DF,br Fluminense,27,1995,1.7,0,0,0,2,0,0,0,1,2,0,0,0,4,4,7,36.4,Matches
+453,Brenner Marlos,br BRA,FW,pe Sporting Cristal,28,1994,4.9,1,0,0,6,5,4,0,0,0,0,0,0,12,9,13,40.9,Matches
+454,Alexis Martin Arias,ar ARG,GK,ar Arg Juniors,30,1992,3.8,0,1,0,1,1,0,0,0,0,0,0,0,5,0,1,0.0,Matches
+455,Martinelli,br BRA,MF,br Fluminense,21,2001,4.2,2,0,0,5,8,0,1,1,3,0,0,0,22,5,5,50.0,Matches
+456,David Martínez,ve VEN,"FW,MF",ve Monagas,16,2006,3.0,1,0,0,4,0,0,14,1,1,0,0,0,10,1,1,50.0,Matches
+457,Federico Martínez,uy URU,"FW,MF",uy Nacional,26,1996,3.6,0,0,0,4,11,0,8,6,4,0,0,0,23,9,5,64.3,Matches
+458,Fidel Martínez,ec ECU,"FW,MF",ec Barcelona,32,1990,0.5,1,0,0,1,3,0,1,1,1,0,0,0,4,0,0,,Matches
+459,Jayson Martínez,ve VEN,MF,ve Metropolitanos,21,2001,0.4,0,0,0,1,0,0,1,0,4,0,0,0,2,0,1,0.0,Matches
+460,Ramón Martínez,py PAR,MF,py Olimpia,27,1996,2.2,0,0,0,1,1,0,0,3,1,0,0,0,16,5,4,55.6,Matches
+461,Roger Martínez,co COL,"FW,MF",ar Racing Club,28,1994,1.4,0,0,0,3,5,4,0,0,0,1,0,0,4,3,4,42.9,Matches
+462,Tomás Martínez,ar ARG,"MF,FW",pe Melgar,27,1995,4.9,0,0,0,6,6,1,20,2,4,0,0,0,30,3,12,20.0,Matches
+463,Walter Martínez,cl CHI,MF,cl Ñublense,23,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+464,Marcelo Martins Moreno,bo BOL,"FW,MF",ec Independiente,35,1987,1.2,0,0,0,1,1,2,1,0,1,0,0,0,0,4,4,50.0,Matches
+465,Gastón Martirena,uy URU,DF,ar Racing Club,23,2000,2.3,1,0,0,1,3,0,12,1,3,0,0,0,19,5,4,55.6,Matches
+466,Gastón Martirena,uy URU,DF,uy Liverpool,23,2000,6.0,1,0,0,3,3,0,21,12,11,0,0,0,50,2,6,25.0,Matches
+467,Jonathan Marulanda,co COL,DF,co Independiente,27,1995,2.0,1,0,0,5,1,0,6,2,0,0,0,0,17,5,4,55.6,Matches
+468,Guillermo Matías Fernández,ar ARG,MF,ar Boca Juniors,31,1991,13.8,2,0,0,14,10,1,17,13,14,0,0,0,88,9,12,42.9,Matches
+469,Mauricio,br BRA,"FW,MF",br Internacional,21,2001,5.5,1,0,0,6,2,0,7,2,7,0,0,0,20,1,2,33.3,Matches
+470,Sergio Maximiliano Ojeda,ar ARG,DF,ar Patronato,31,1992,4.7,0,0,0,0,2,0,1,8,5,0,0,0,42,11,2,84.6,Matches
+471,Camilo Mayada,uy URU,FW,py Libertad,32,1991,0.3,0,0,0,1,1,0,0,0,0,0,0,0,2,1,1,50.0,Matches
+472,Maycon,br BRA,MF,br Corinthians,25,1997,3.1,0,0,0,1,2,0,3,4,3,0,0,0,12,1,0,100.0,Matches
+473,Mayke,br BRA,"DF,FW",br Palmeiras,30,1992,10.0,0,0,0,12,2,0,29,15,7,0,0,0,55,7,10,41.2,Matches
+474,Alan Medina,uy URU,"FW,MF",uy Liverpool,24,1998,4.9,0,0,0,3,6,0,19,1,6,0,0,0,19,3,2,60.0,Matches
+475,Cristian Medina,ar ARG,"MF,FW",ar Boca Juniors,20,2002,10.6,1,0,0,14,14,0,6,3,8,0,0,0,52,2,9,18.2,Matches
+476,Maicol Medina,co COL,MF,co Pereira,25,1997,3.8,3,1,1,6,5,0,0,6,6,0,0,0,19,4,5,44.4,Matches
+477,Yaimar Medina,ec ECU,DF,ec Independiente,18,2004,2.2,0,0,0,0,2,0,5,3,1,0,0,0,14,2,1,66.7,Matches
+478,Marcos Mejía,ec ECU,DF,ec SD Aucas,24,1998,0.7,0,0,0,2,0,0,0,2,1,0,0,0,6,1,0,100.0,Matches
+479,Antonio Melgar,bo BOL,"FW,MF",bo Bolívar,28,1994,0.9,0,0,0,1,2,0,2,0,1,0,0,0,4,0,1,0.0,Matches
+480,Lorenzo Melgarejo,py PAR,"FW,MF",py Libertad,32,1990,2.5,1,0,0,3,7,1,6,2,3,0,0,0,9,7,6,53.8,Matches
+481,Marcelo Meli,ar ARG,MF,uy Liverpool,30,1992,4.4,3,0,0,7,5,1,4,4,3,0,0,0,23,1,3,25.0,Matches
+482,Felipe Melo,br BRA,DF,br Fluminense,39,1983,8.4,4,0,0,7,7,0,0,11,7,0,0,0,44,25,9,73.5,Matches
+483,Yair Mena Palacios,co COL,"FW,MF",co Nacional,22,2000,0.5,0,0,0,1,1,0,3,0,2,0,0,0,3,0,1,0.0,Matches
+484,Vitor Mendes,br BRA,DF,br Fluminense,23,1999,0.9,1,0,0,2,0,0,0,0,0,0,0,0,2,4,2,66.7,Matches
+485,Bruno Méndez,uy URU,DF,br Corinthians,23,1999,1.8,1,0,0,1,0,0,3,1,1,0,0,0,7,2,1,66.7,Matches
+486,Víctor Mendoza,ec ECU,GK,ec Barcelona,28,1994,3.0,1,0,0,1,1,0,0,0,0,0,1,0,4,1,1,50.0,Matches
+487,Gabriel Menino,br BRA,MF,br Palmeiras,22,2000,8.2,3,0,0,9,7,0,22,12,7,0,0,0,54,7,7,50.0,Matches
+488,Gabriel Mercado,ar ARG,DF,br Internacional,35,1987,10.7,3,0,0,7,4,1,0,16,9,0,0,0,50,19,11,63.3,Matches
+489,Patrik Mercado,ec ECU,"MF,FW",ec Independiente,19,2003,0.7,0,0,0,1,0,0,3,0,1,0,0,0,2,1,1,50.0,Matches
+490,Miguel Merentiel,uy URU,FW,ar Boca Juniors,26,1996,6.5,2,0,0,5,3,2,3,3,3,0,0,0,17,2,14,12.5,Matches
+491,Kevin Mier,co COL,GK,co Nacional,22,2000,4.0,1,0,0,0,0,0,0,0,0,0,0,0,6,1,0,100.0,Matches
+492,Leonardo Mifflin,pe PER,DF,pe Melgar,23,2000,1.0,0,0,0,0,1,0,0,0,1,0,0,0,10,1,0,100.0,Matches
+493,Carlos Miguel,br BRA,GK,br Corinthians,24,1998,2.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches
+494,Pablo Míguez,uy URU,DF,pe Alianza Lima,35,1987,2.0,2,0,0,2,0,0,0,1,3,0,1,0,3,0,2,0.0,Matches
+495,Angelo Mina,ec ECU,MF,ec SD Aucas,23,1999,0.3,0,0,0,0,2,0,0,1,0,0,0,0,3,0,1,0.0,Matches
+496,Alan Minda,ec ECU,DF,ec Independiente,19,2003,0.3,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,,Matches
+497,Pablo Minissale,ar ARG,DF,ar Arg Juniors,22,2001,1.3,1,0,0,1,0,0,1,0,1,0,0,0,6,0,0,,Matches
+498,Rodrigo Moledo,br BRA,DF,br Internacional,35,1987,1.4,0,0,0,0,2,0,0,0,2,0,0,0,2,4,2,66.7,Matches
+499,Jordy Monroy,am ARM,DF,co Pereira,27,1996,1.5,0,0,0,0,0,0,4,1,1,0,0,0,9,0,2,0.0,Matches
+500,Jordy Monroy,am ARM,DF,co Independiente,27,1996,4.0,0,0,0,5,1,0,11,2,7,0,0,0,27,1,4,20.0,Matches
+501,Miguel Monsalve,co COL,"MF,FW",co Independiente,18,2004,2.9,0,0,0,0,4,1,8,0,3,0,0,0,11,1,3,25.0,Matches
+502,Brian Montenegro,py PAR,"FW,MF",py Olimpia,29,1993,0.7,0,0,0,0,1,0,1,0,0,0,0,0,3,0,2,0.0,Matches
+503,Jefferson Montero,ec ECU,MF,ec SD Aucas,33,1989,0.2,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,,Matches
+504,Marcos Montiel,uy URU,"DF,MF",uy Nacional,27,1995,1.7,1,0,0,1,3,0,1,3,0,0,0,0,20,4,3,57.1,Matches
+505,Santiago Montiel,ar ARG,"DF,MF",ar Arg Juniors,22,2000,6.8,3,2,1,3,13,0,39,9,12,0,0,0,40,2,7,22.2,Matches
+506,Carlos Montoya,pe PER,DF,pe Alianza Lima,20,2002,0.7,0,0,0,0,0,0,1,1,1,0,0,0,3,2,2,50.0,Matches
+507,Manuel Monzeglio,uy URU,FW,uy Nacional,21,2001,0.3,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,,Matches
+508,Lucas Morales,uy URU,DF,uy Nacional,23,1999,0.5,0,0,0,0,1,0,0,2,3,0,0,0,1,1,0,100.0,Matches
+509,Robert Morales,py PAR,FW,py Cerro Porteño,23,1999,2.2,0,0,0,1,2,2,2,0,1,0,0,0,7,6,5,54.5,Matches
+510,Maximiliano Moralez,ar ARG,MF,ar Racing Club,35,1987,1.3,0,1,0,5,2,0,4,0,2,0,0,0,9,0,2,0.0,Matches
+511,Aníbal Moreno,ar ARG,MF,ar Racing Club,23,1999,8.2,1,0,0,6,2,0,1,9,9,0,0,0,48,11,8,57.9,Matches
+512,Eber Moreno,co COL,"DF,FW",co Pereira,21,2002,5.1,1,0,0,6,6,1,3,1,3,0,1,0,24,2,2,50.0,Matches
+513,Neyder Moreno,co COL,"MF,FW",co Nacional,25,1997,1.7,0,0,0,1,3,1,7,2,6,0,0,0,6,1,2,33.3,Matches
+514,Víctor Moreno,co COL,DF,co Independiente,28,1994,4.5,2,0,0,5,2,1,0,5,3,0,0,0,23,19,6,76.0,Matches
+515,Gabriel Moscardo,br BRA,MF,br Corinthians,17,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+516,Andrés Mosquera Marmolejo,co COL,GK,co Independiente,31,1991,2.0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,1,50.0,Matches
+517,Orlando Mosquera,pa PAN,GK,ve Monagas,28,1994,5.0,0,0,0,0,2,0,0,0,0,0,0,0,8,1,1,50.0,Matches
+518,Sergio Mosquera,co COL,DF,co Nacional,28,1994,3.0,1,0,0,6,3,0,0,2,2,0,0,0,12,5,1,83.3,Matches
+519,Hugo Moura,br BRA,MF,br Ath Paranaense,25,1998,1.3,0,0,0,0,0,0,0,2,2,0,0,0,10,4,0,100.0,Matches
+520,Franco Moyano,ar ARG,MF,ar Arg Juniors,25,1997,7.0,1,0,0,4,7,0,18,9,3,0,0,0,47,4,4,50.0,Matches
+521,Facundo Mura,ar ARG,DF,ar Racing Club,23,1999,4.5,1,0,0,4,6,0,6,1,6,0,0,0,26,2,2,50.0,Matches
+522,Murillo,br BRA,DF,br Corinthians,20,2002,4.0,1,0,0,9,0,0,0,3,6,0,0,0,26,10,4,71.4,Matches
+523,Ewil Murillo,co COL,MF,co Pereira,22,2000,1.4,2,0,0,5,1,0,2,1,3,0,0,0,7,2,1,66.7,Matches
+524,Jesús Murillo,co COL,DF,co Pereira,29,1993,0.1,0,0,0,1,0,0,0,1,0,,,0,,,,,Matches
+525,Gonzalo Nápoli,uy URU,MF,uy Liverpool,22,2000,4.9,1,0,0,5,6,0,11,7,6,0,0,0,23,4,2,66.7,Matches
+526,Juan Nardoni,ar ARG,MF,ar Racing Club,20,2002,6.1,3,0,0,10,10,0,3,4,2,0,0,0,30,4,5,44.4,Matches
+527,Rafael Navarro,br BRA,"FW,MF",br Palmeiras,22,2000,0.6,0,0,0,4,0,1,0,0,2,0,0,0,5,4,6,40.0,Matches
+528,Edanyilber Navas,ve VEN,"FW,MF",ve Monagas,23,2000,4.9,0,0,0,2,4,0,26,0,1,0,0,0,18,2,7,22.2,Matches
+529,Kaiky Naves,br BRA,DF,br Palmeiras,20,2002,0.9,0,0,0,0,0,0,0,2,0,0,0,0,3,1,0,100.0,Matches
+530,Brian Nieva,ar ARG,"DF,MF",ar Patronato,24,1998,0.5,0,0,0,0,1,0,0,0,1,0,0,0,3,1,2,33.3,Matches
+531,Nino,br BRA,DF,br Fluminense,25,1997,12.3,4,0,0,14,25,0,2,21,6,0,0,0,67,41,21,66.1,Matches
+532,Fabián Noguera,ar ARG,DF,uy Nacional,29,1993,6.0,1,0,0,2,4,0,2,13,2,0,0,0,19,19,12,61.3,Matches
+533,Gastón Novero,ar ARG,MF,ar Patronato,24,1998,0.3,0,0,0,0,3,0,1,0,2,0,0,0,1,0,0,,Matches
+534,Thiago Nuss,ar ARG,FW,ar Arg Juniors,21,2001,0.7,0,1,0,4,4,0,2,0,0,0,0,0,0,2,1,66.7,Matches
+535,Édier Ocampo,co COL,DF,co Nacional,19,2003,2.4,3,0,0,8,2,0,8,4,4,0,0,0,16,5,2,71.4,Matches
+536,Agustin Ojeda,ar ARG,"FW,MF",ar Racing Club,18,2004,3.1,0,0,0,1,3,1,8,1,0,0,0,0,13,3,6,33.3,Matches
+537,Gervásio Olivera,uy URU,"DF,FW",uy Liverpool,22,2000,0.3,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,,Matches
+538,Gastón Olveira,uy URU,GK,py Olimpia,29,1993,5.0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,,Matches
+539,Óscar Opazo,cl CHI,DF,ar Racing Club,32,1990,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+540,Roberto Ordoñez,ec ECU,"FW,MF",ec SD Aucas,37,1985,1.1,0,0,0,4,2,1,0,0,1,0,0,0,3,4,2,66.7,Matches
+541,Alexander Oroz,cl CHI,"DF,FW",cl Colo-Colo,20,2002,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+542,Nicolás Oróz,ar ARG,"MF,FW",ar Racing Club,28,1994,6.8,1,0,0,6,6,0,17,6,8,0,0,0,37,5,6,45.5,Matches
+543,Michael Ortega,co COL,"MF,FW",bo The Strongest,31,1991,5.0,0,0,0,4,12,1,31,1,5,0,0,0,27,4,3,57.1,Matches
+544,Charlis Ortiz,ve VEN,FW,ve Metropolitanos,36,1986,5.7,0,0,0,13,8,0,0,1,1,0,0,0,13,32,34,48.5,Matches
+545,Christian Ortiz,ar ARG,"FW,MF",ec Barcelona,30,1992,3.7,1,0,0,7,4,1,16,6,3,0,0,0,23,3,5,37.5,Matches
+546,Kavier Ortiz,ec ECU,FW,ec SD Aucas,20,2002,0.9,0,0,0,0,1,1,3,0,0,0,0,0,2,0,1,0.0,Matches
+547,Richard Ortiz,py PAR,MF,py Olimpia,32,1990,6.6,4,0,0,11,5,1,2,3,12,0,0,0,36,8,5,61.5,Matches
+548,Horacio Orzán,ar ARG,MF,pe Melgar,34,1988,5.9,2,0,0,7,3,0,0,8,12,0,1,0,50,7,5,58.3,Matches
+549,Sergio Otálvaro,co COL,DF,py Olimpia,36,1986,1.3,0,0,0,4,0,0,3,4,1,0,0,0,5,1,1,50.0,Matches
+550,Otávio,br BRA,MF,br Atlético Mineiro,28,1994,2.8,1,0,0,7,1,0,0,2,4,0,0,0,20,4,6,40.0,Matches
+551,Rómulo Otero,ve VEN,"MF,FW",ec SD Aucas,30,1992,5.8,0,0,0,8,32,1,31,1,3,0,0,0,28,2,6,25.0,Matches
+552,Leandro Otormín,uy URU,"MF,DF",uy Liverpool,26,1996,1.2,0,0,0,0,0,0,1,0,1,0,0,0,6,1,0,100.0,Matches
+553,Alfio Oviedo,py PAR,FW,py Libertad,27,1995,2.4,1,0,0,6,4,4,0,0,0,0,0,0,3,10,7,58.8,Matches
+554,Bayron Oyarzo,cl CHI,FW,cl Ñublense,26,1996,4.1,1,0,0,14,6,1,16,3,5,0,0,0,22,3,10,23.1,Matches
+555,Pablo,br BRA,"FW,MF",br Ath Paranaense,30,1992,2.8,3,0,0,2,0,0,1,2,1,0,0,0,11,4,7,36.4,Matches
+556,Pablo,br BRA,DF,br Flamengo,31,1991,1.0,1,0,0,1,1,0,0,3,0,0,0,0,4,0,2,0.0,Matches
+557,Pedro Pablo Velasco,ec ECU,DF,ec Barcelona,29,1993,3.8,1,0,0,2,3,0,7,2,4,0,1,0,19,4,3,57.1,Matches
+558,Juan Pablo Zuluaga,co COL,"MF,FW",co Pereira,29,1993,9.5,1,0,0,10,1,0,26,9,11,0,0,0,64,10,13,43.5,Matches
+559,Dorlan Pabón,co COL,"FW,MF",co Nacional,35,1988,3.5,0,0,0,5,2,0,9,0,1,0,0,0,10,0,5,0.0,Matches
+560,Steven Pabón,ve VEN,DF,ve Metropolitanos,21,2001,1.1,0,0,0,2,0,0,0,0,3,0,0,0,8,3,4,42.9,Matches
+561,Kendry Páez,ec ECU,"MF,FW",ec Independiente,15,2007,2.5,0,0,0,3,2,0,14,3,3,0,0,0,10,0,1,0.0,Matches
+562,Guillermo Paiva,py PAR,FW,py Olimpia,25,1997,4.8,1,0,0,6,9,5,0,0,4,0,0,0,13,17,23,42.5,Matches
+563,Nelson Palacio,co COL,MF,co Nacional,21,2001,4.2,0,0,0,4,4,0,0,3,0,0,0,0,23,5,5,50.0,Matches
+564,Brahian Palacios,co COL,FW,co Nacional,20,2002,2.4,0,0,0,3,3,0,11,0,2,0,0,0,7,1,2,33.3,Matches
+565,Carlos Palacios,cl CHI,"FW,MF",cl Colo-Colo,22,2000,2.5,0,1,0,2,5,1,12,1,1,0,0,0,11,0,5,0.0,Matches
+566,Jhon Palacios,co COL,DF,co Independiente,23,1999,2.5,0,0,0,3,0,0,0,3,3,0,0,0,13,1,4,20.0,Matches
+567,Kevin Palacios,co COL,"FW,DF",co Pereira,23,2000,0.3,0,0,0,0,3,0,4,0,0,0,0,0,2,0,0,,Matches
+568,Agustín Palavecino,ar ARG,"MF,FW",ar River Plate,26,1996,1.7,0,0,0,3,1,0,13,2,2,0,0,0,3,1,0,100.0,Matches
+569,José Paradela,ar ARG,"FW,MF",ar River Plate,24,1998,1.4,1,0,0,3,5,1,6,0,1,0,0,0,10,0,0,,Matches
+570,Felipe Pardo,co COL,MF,co Independiente,32,1990,1.7,1,0,0,1,4,0,6,1,0,0,0,0,6,1,1,50.0,Matches
+571,Patrick,br BRA,MF,br Atlético Mineiro,30,1992,2.6,0,0,0,4,3,0,6,1,8,0,0,0,13,5,4,55.6,Matches
+572,Alan Patrick,br BRA,"MF,FW",br Internacional,31,1991,11.5,3,0,0,13,18,2,37,10,6,0,0,0,61,6,11,35.3,Matches
+573,Fernando de Paul,cl CHI,GK,cl Colo-Colo,31,1991,3.0,0,1,0,1,1,0,0,0,0,0,0,0,8,1,0,100.0,Matches
+574,Giuliano de Paula,br BRA,"MF,FW",br Corinthians,32,1990,3.2,1,0,0,3,0,2,2,2,1,0,1,0,16,2,5,28.6,Matches
+575,Paulinho,br BRA,FW,br Atlético Mineiro,22,2000,6.8,2,0,0,4,4,1,5,2,4,0,1,0,26,1,19,5.0,Matches
+576,Paulinho,br BRA,MF,br Corinthians,34,1988,1.0,1,0,0,2,2,1,1,0,1,0,0,0,2,0,3,0.0,Matches
+577,Esteban Pavez,cl CHI,MF,cl Colo-Colo,32,1990,6.0,1,0,0,6,3,0,0,4,6,0,0,0,49,4,5,44.4,Matches
+578,Cristian Pavón,ar ARG,"FW,MF",br Atlético Mineiro,27,1996,4.7,2,0,0,7,1,2,25,1,2,0,0,0,30,6,10,37.5,Matches
+579,Martín Payero,ar ARG,MF,ar Boca Juniors,24,1998,2.0,1,0,0,1,3,0,4,0,2,0,0,0,16,1,3,25.0,Matches
+580,Luiz Paz,bo BOL,FW,bo Bolívar,18,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+581,Pablo Pedraza,bo BOL,DF,bo The Strongest,27,1995,0.1,0,0,0,2,0,0,0,1,0,0,0,0,0,2,2,50.0,Matches
+582,Pedrinho,br BRA,DF,br Ath Paranaense,20,2002,3.0,1,0,0,5,1,0,5,10,3,0,0,0,22,3,4,42.9,Matches
+583,Pedrinho,br BRA,"MF,FW",br Atlético Mineiro,24,1998,2.3,0,0,0,3,4,0,9,1,0,0,0,0,12,1,3,25.0,Matches
+584,Pedro,br BRA,FW,br Flamengo,25,1997,4.5,0,0,0,5,3,1,0,0,2,0,0,0,15,3,4,42.9,Matches
+585,Cristian Pellerano,ar ARG,"MF,DF",ec Independiente,40,1982,6.0,4,0,0,3,2,0,6,6,4,0,0,0,44,1,2,33.3,Matches
+586,Carlos de Pena,uy URU,"MF,FW",br Internacional,30,1992,6.1,0,0,0,9,5,0,22,10,1,0,0,0,44,6,3,66.7,Matches
+587,José Luis Moreno Peña,co COL,DF,ve Metropolitanos,26,1996,1.8,3,1,1,5,0,0,0,1,0,0,0,0,5,4,2,66.7,Matches
+588,Geisson Perea,co COL,DF,co Pereira,31,1991,3.2,0,0,0,1,1,0,0,1,1,0,0,0,12,4,8,33.3,Matches
+589,Óscar Perea,co COL,FW,co Nacional,17,2005,0.5,1,0,0,2,0,0,3,1,1,0,1,0,3,1,1,50.0,Matches
+590,Federico Pereira,uy URU,DF,uy Liverpool,22,2000,4.0,0,0,0,4,4,0,0,2,10,0,0,0,22,10,10,50.0,Matches
+591,Léo Pereira,br BRA,DF,br Flamengo,27,1996,3.2,0,0,0,3,7,0,1,1,3,0,0,0,23,5,1,83.3,Matches
+592,Gastón Pereiro,uy URU,"FW,MF",uy Nacional,27,1995,2.7,3,0,0,5,0,0,6,0,1,0,0,0,10,4,3,57.1,Matches
+593,Valentín Pereyra,ar ARG,MF,ar Patronato,20,2002,0.5,0,0,0,0,3,1,0,0,1,0,0,0,4,0,0,,Matches
+594,Enzo Pérez,ar ARG,MF,ar River Plate,36,1986,4.9,3,0,0,10,4,0,1,18,3,0,0,0,26,2,5,28.6,Matches
+595,Gonzalo Pérez,uy URU,DF,uy Liverpool,22,2001,4.2,0,0,0,0,0,0,0,4,1,0,0,0,22,4,3,57.1,Matches
+596,Nicola Pérez,uy URU,GK,cl Ñublense,32,1990,6.0,0,0,0,0,1,0,0,0,0,0,0,0,6,2,0,100.0,Matches
+597,Pedro Perlaza,ec ECU,DF,ec SD Aucas,31,1991,2.9,1,0,0,4,5,1,6,4,2,0,0,0,17,2,1,66.7,Matches
+598,Gino Peruzzi,ar ARG,DF,pe Alianza Lima,30,1992,2.0,0,0,0,3,2,0,0,0,2,0,0,0,7,1,5,16.7,Matches
+599,Iván Pillud,ar ARG,DF,ar Racing Club,36,1986,2.0,1,0,0,0,7,0,5,0,3,0,0,0,20,1,1,50.0,Matches
+600,Kleber Pinargote,ec ECU,GK,ec Independiente,19,2003,1.5,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+601,Bruno Piñatares,uy URU,"MF,DF",ec Barcelona,32,1990,2.5,1,0,0,4,4,0,0,1,6,0,0,0,24,5,2,71.4,Matches
+602,Mario Pineida,ec ECU,DF,ec Barcelona,30,1992,3.0,3,0,0,5,4,0,7,3,1,0,0,0,16,4,1,80.0,Matches
+603,Gonzalo Piovi,ar ARG,DF,ar Racing Club,28,1994,8.3,1,0,0,8,3,0,9,15,12,0,0,0,59,17,8,68.0,Matches
+604,Joaquín Piquerez,uy URU,DF,br Palmeiras,24,1998,9.8,1,0,0,6,8,0,26,8,14,0,0,0,58,8,4,66.7,Matches
+605,Gabriel Pirani,br BRA,"FW,DF",br Fluminense,20,2002,1.3,0,0,0,1,5,0,4,1,1,0,0,0,12,0,0,,Matches
+606,Iván Piris,py PAR,DF,py Libertad,33,1989,5.9,1,0,0,6,3,0,15,7,9,0,0,0,33,8,6,57.1,Matches
+607,Damián Pizarro,cl CHI,FW,cl Colo-Colo,17,2005,5.5,0,0,0,11,5,3,5,0,2,0,0,0,16,9,10,47.4,Matches
+608,Vicente Pizarro,cl CHI,MF,cl Colo-Colo,20,2002,0.9,0,0,0,1,2,0,2,2,3,0,0,0,12,1,2,33.3,Matches
+609,Diego Polenta,uy URU,DF,uy Nacional,30,1992,7.3,0,0,0,2,4,0,2,3,6,0,0,0,39,3,5,37.5,Matches
+610,Luciano Pons,ar ARG,FW,co Independiente,32,1990,5.8,2,0,0,11,13,3,3,2,2,0,0,0,10,8,14,36.4,Matches
+611,Segundo Portocarrero,ec ECU,"DF,MF",ec Barcelona,26,1996,4.2,0,0,0,7,10,0,11,6,5,0,0,0,21,4,5,44.4,Matches
+612,Bruno Portugal,pe PER,FW,pe Melgar,19,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+613,Gabriel Poveda,br BRA,"FW,DF",bo Bolívar,24,1998,0.5,0,0,0,2,1,0,1,0,0,0,0,0,3,1,1,50.0,Matches
+614,Adonis Preciado,ec ECU,"MF,FW",ec Barcelona,25,1997,3.3,0,0,0,14,6,0,4,5,4,1,0,0,13,6,5,54.5,Matches
+615,Jesús Pretell,pe PER,MF,pe Sporting Cristal,23,1999,4.7,2,0,0,13,1,0,0,7,8,0,0,0,36,2,3,40.0,Matches
+616,Nicolás Previtali,ar ARG,MF,ec Independiente,27,1995,0.3,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,,Matches
+617,Branco Provoste,cl CHI,MF,cl Ñublense,22,2000,0.3,0,0,0,0,1,0,1,2,1,0,0,0,3,1,0,100.0,Matches
+618,Erick Pulgar,cl CHI,"MF,DF",br Flamengo,29,1994,2.5,1,0,0,5,1,0,0,5,4,0,0,0,11,5,3,62.5,Matches
+619,Du Queiroz,br BRA,"DF,MF",br Corinthians,23,2000,1.0,0,0,0,1,0,0,7,0,0,0,0,0,8,0,0,,Matches
+620,Aldo Quiñónez,py PAR,MF,ve Monagas,31,1991,2.0,0,0,0,1,2,0,1,0,2,0,0,0,9,2,1,66.7,Matches
+621,Deiner Quiñónez,co COL,"FW,MF",co Independiente,27,1995,1.4,0,0,0,0,4,0,3,0,0,0,0,0,8,0,2,0.0,Matches
+622,Jhonny Quiñónez,ec ECU,MF,ec SD Aucas,24,1998,4.6,1,0,0,8,2,1,4,4,4,0,0,0,29,7,5,58.3,Matches
+623,Joshué Quiñónez,ec ECU,DF,ec Barcelona,22,2000,2.2,0,0,0,0,0,0,0,1,0,0,0,0,7,4,3,57.1,Matches
+624,Aldair Quintana,co COL,GK,co Pereira,28,1994,10.0,1,0,0,1,0,0,0,0,0,0,1,0,5,7,1,87.5,Matches
+625,Hugo Quintana,py PAR,"MF,FW",py Olimpia,21,2001,1.0,0,0,0,1,0,0,5,0,1,0,0,0,9,0,0,,Matches
+626,Juan Quintero,co COL,DF,co Pereira,27,1995,8.7,4,1,1,8,1,0,0,14,10,0,0,0,45,16,8,66.7,Matches
+627,Juan Quintero,co COL,FW,ar Racing Club,30,1993,1.6,0,0,0,0,2,0,8,0,1,0,0,0,6,0,0,,Matches
+628,Sergio Quintero,ec ECU,"MF,DF",ec SD Aucas,23,1999,1.2,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,,Matches
+629,Jairo Quinteros,bo BOL,DF,bo Bolívar,21,2001,1.3,0,0,0,0,3,0,0,3,0,0,0,0,3,1,1,50.0,Matches
+630,Alvaro Quiroga,bo BOL,MF,bo The Strongest,27,1995,5.1,2,0,0,8,5,0,11,4,5,0,0,0,20,5,4,55.6,Matches
+631,Santiago Quiros,ar ARG,"DF,FW",ar Racing Club,19,2003,0.3,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,100.0,Matches
+632,Igor Rabello,br BRA,DF,br Atlético Mineiro,27,1995,1.4,0,0,0,1,1,0,0,4,0,0,0,0,8,9,1,90.0,Matches
+633,Zé Rafael,br BRA,MF,br Palmeiras,29,1993,9.4,1,0,0,21,16,0,2,5,19,0,0,0,78,7,5,58.3,Matches
+634,Eric Ramírez,ve VEN,FW,co Nacional,24,1998,0.6,0,0,0,2,0,0,1,0,0,0,0,0,2,3,2,60.0,Matches
+635,Iván Ramírez,py PAR,"FW,MF",py Libertad,28,1994,0.8,1,0,0,3,4,0,7,0,0,0,0,0,6,1,3,25.0,Matches
+636,Juan Ramírez,ar ARG,"MF,FW",ar Boca Juniors,29,1993,0.9,0,0,0,0,4,0,6,1,2,0,0,0,6,1,2,33.3,Matches
+637,Moisés Ramírez,ec ECU,GK,ec Independiente,22,2000,5.5,0,1,0,0,2,0,0,0,0,0,0,0,6,0,0,,Matches
+638,Rubén Ramírez,ve VEN,DF,ve Monagas,27,1995,5.5,2,0,0,3,4,0,5,8,11,0,1,0,33,12,5,70.6,Matches
+639,Agustín Ramos,ar ARG,DF,ar Patronato,21,2001,0.4,0,0,0,0,1,0,2,0,1,0,0,0,2,0,0,,Matches
+640,Alejandro Ramos,pe PER,DF,pe Melgar,24,1998,2.7,0,0,0,2,2,0,12,3,4,0,0,0,27,0,1,0.0,Matches
+641,Edwin Ramos,co COL,MF,ve Metropolitanos,23,1999,3.5,0,0,0,7,2,0,1,8,6,0,0,0,30,7,6,53.8,Matches
+642,Rafael Ramos,pt POR,DF,br Corinthians,28,1995,0.9,0,0,0,0,0,0,5,4,4,0,0,0,5,0,0,,Matches
+643,Raimundo Rebolledo,cl CHI,DF,cl Ñublense,25,1997,4.6,0,0,0,8,2,1,13,4,2,0,0,0,30,6,5,54.5,Matches
+644,Federico Redondo,ar ARG,MF,ar Arg Juniors,20,2003,6.4,1,0,0,15,9,0,3,17,8,0,0,0,49,5,2,71.4,Matches
+645,Guillermo Rendón,ec ECU,FW,ec Barcelona,20,2002,0.4,0,0,0,1,0,0,1,2,0,0,0,0,4,0,0,,Matches
+646,Renê,br BRA,DF,br Internacional,30,1992,10.3,1,0,0,2,17,0,10,24,14,0,0,0,88,12,7,63.2,Matches
+647,Nicolás Reniero,ar ARG,FW,ar Racing Club,27,1995,2.0,0,0,0,6,2,0,0,1,2,0,0,0,9,6,6,50.0,Matches
+648,Edisson Restrepo,co COL,DF,co Pereira,26,1996,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+649,Réver,br BRA,"DF,FW",br Atlético Mineiro,38,1985,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+650,Lorenzo Reyes,cl CHI,MF,cl Ñublense,31,1991,4.7,2,0,0,5,3,0,0,2,7,0,0,0,34,1,0,100.0,Matches
+651,Bryan Reyna,pe PER,"FW,MF",pe Alianza Lima,24,1998,5.5,2,0,0,4,11,0,10,1,6,0,0,0,36,3,4,42.9,Matches
+652,Paolo Reyna,pe PER,DF,pe Melgar,21,2001,3.1,0,0,0,4,2,0,8,5,8,0,0,0,21,3,3,50.0,Matches
+653,Jordan Rezabala,ec ECU,"MF,FW",ec SD Aucas,22,2000,0.8,1,0,0,1,10,0,3,1,4,0,0,0,6,2,3,40.0,Matches
+654,Everton Ribeiro,br BRA,"MF,FW",br Flamengo,33,1989,5.2,1,0,0,7,6,0,12,4,2,0,0,0,29,0,1,0.0,Matches
+655,Andrés Ricaurte,co COL,MF,co Independiente,31,1991,1.6,2,0,0,1,2,0,10,2,1,0,0,0,14,0,1,0.0,Matches
+656,Richard Ríos,co COL,MF,br Palmeiras,22,2000,4.1,0,1,0,4,12,1,7,4,8,0,0,0,30,7,6,53.8,Matches
+657,Cristian Rivas,ve VEN,"MF,FW",ve Monagas,26,1997,3.9,0,0,0,3,3,0,1,9,2,0,0,0,36,1,7,12.5,Matches
+658,Daniel Rivas,py PAR,DF,py Cerro Porteño,21,2001,1.8,0,0,0,0,1,0,2,2,3,0,0,0,9,1,3,25.0,Matches
+659,Manuel Rivera,cl CHI,MF,cl Ñublense,26,1996,3.8,2,0,0,11,1,0,6,2,4,0,0,0,26,1,2,33.3,Matches
+660,Rodrigo Rivero,uy URU,"MF,FW",uy Liverpool,27,1995,1.3,0,0,0,1,1,0,6,0,2,0,0,0,7,1,1,50.0,Matches
+661,Cristian Riveros,py PAR,MF,py Libertad,40,1982,0.9,0,0,0,3,0,0,0,4,0,0,0,0,6,4,2,66.7,Matches
+662,Jorge Roa,ve VEN,GK,ve Monagas,24,1998,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+663,Enzo Roberto Díaz,ar ARG,FW,ar Patronato,31,1992,2.7,1,0,0,6,3,4,0,1,2,0,0,0,5,13,16,44.8,Matches
+664,Carlos Robles Rocha,co COL,MF,bo The Strongest,30,1992,2.2,0,0,0,2,1,0,1,0,0,0,0,0,8,2,3,40.0,Matches
+665,Carlos Roca,bo BOL,DF,bo The Strongest,25,1997,5.7,1,0,0,9,3,0,10,7,4,0,1,0,30,5,3,62.5,Matches
+666,Kaique Rocha,br BRA,DF,br Ath Paranaense,21,2001,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,100.0,Matches
+667,Marcos Rocha,br BRA,DF,br Palmeiras,34,1988,4.2,1,0,0,8,9,0,7,7,5,0,0,0,20,2,2,50.0,Matches
+668,Sergio Rochet,uy URU,GK,uy Nacional,29,1993,6.0,1,0,0,0,0,0,0,0,0,0,0,0,6,2,0,100.0,Matches
+669,Sergio Rochet,uy URU,GK,br Internacional,29,1993,6.3,1,0,0,0,1,0,0,0,1,0,0,0,5,3,0,100.0,Matches
+670,Agustín Rodríguez,uy URU,"FW,MF",ec Barcelona,24,1998,1.9,0,0,0,2,3,1,0,0,2,0,0,0,7,1,6,14.3,Matches
+671,Alan Rodríguez,uy URU,"MF,FW",ar Arg Juniors,23,2000,4.7,0,0,0,5,2,0,6,1,8,0,0,0,27,1,3,25.0,Matches
+672,Aldair Rodríguez,pe PER,"MF,FW",pe Alianza Lima,28,1994,3.4,1,0,0,4,3,1,3,3,2,0,0,0,11,6,5,54.5,Matches
+673,Angelo Rodríguez,co COL,FW,co Pereira,33,1989,8.8,4,0,0,29,14,13,4,2,0,1,0,0,21,10,21,32.3,Matches
+674,Arley Rodríguez,co COL,FW,co Pereira,29,1993,6.1,2,0,0,10,11,4,7,1,5,0,0,0,22,19,15,55.9,Matches
+675,Carlos Rodríguez,uy URU,DF,ec Barcelona,32,1990,4.0,1,0,0,2,1,0,0,6,4,0,0,0,28,11,10,52.4,Matches
+676,Cristopher Rodríguez,ve VEN,DF,ve Monagas,25,1997,6.0,0,0,0,6,3,0,0,13,7,0,0,0,35,9,10,47.4,Matches
+677,Diego Rodríguez,uy URU,MF,uy Nacional,33,1989,5.2,0,0,0,6,2,0,3,6,11,0,0,0,35,4,2,66.7,Matches
+678,Ignacio Rodríguez,uy URU,DF,uy Liverpool,19,2003,0.7,1,0,0,1,2,0,0,1,0,0,0,0,3,0,2,0.0,Matches
+679,Kevin Rodríguez,ec ECU,"FW,DF",ec Independiente,22,2000,2.9,1,0,0,5,4,3,6,1,1,0,0,0,9,5,7,41.7,Matches
+680,Leandro Rodríguez,ve VEN,"MF,FW",ve Monagas,17,2005,1.3,1,0,0,2,1,0,7,0,2,0,0,0,4,0,0,,Matches
+681,Luciano Rodríguez,uy URU,FW,uy Liverpool,19,2003,3.0,0,0,0,4,9,1,4,1,2,0,0,0,11,1,1,50.0,Matches
+682,Patito Rodríguez,ar ARG,"MF,FW",bo Bolívar,32,1990,7.5,1,0,0,4,5,1,51,3,4,0,0,0,35,4,4,50.0,Matches
+683,Ronald Rodríguez,ve VEN,FW,ve Monagas,17,2005,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+684,Yonatan Rodríguez,uy URU,MF,uy Nacional,29,1993,7.2,4,0,0,17,7,0,13,8,17,0,0,0,51,13,12,52.0,Matches
+685,Gabriel Rojas,ar ARG,DF,ar Racing Club,25,1997,10.1,2,0,0,12,19,1,46,8,10,1,0,0,44,9,11,45.0,Matches
+686,Jeyson Rojas,cl CHI,DF,cl Colo-Colo,21,2002,3.6,1,0,0,4,1,0,12,3,5,0,0,0,26,1,7,12.5,Matches
+687,Marco Rojas,nz NZL,MF,cl Colo-Colo,31,1991,0.5,0,0,0,0,4,0,2,0,0,0,0,0,3,0,1,0.0,Matches
+688,Matías Rojas,py PAR,"FW,MF",ar Racing Club,27,1995,2.7,2,0,0,3,3,0,9,0,1,0,0,0,13,2,2,50.0,Matches
+689,Robert Rojas,py PAR,DF,ar River Plate,26,1996,3.7,0,0,0,4,0,0,0,3,3,0,0,0,20,3,3,50.0,Matches
+690,Marcos Rojo,ar ARG,DF,ar Boca Juniors,32,1990,4.4,3,1,1,7,1,1,1,4,4,0,0,0,20,12,3,80.0,Matches
+691,Esteban Rolón,ar ARG,FW,ar Boca Juniors,27,1995,0.2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches
+692,Jhohan Romaña,co COL,DF,py Olimpia,24,1998,5.8,1,0,0,7,5,0,1,8,8,0,0,0,27,15,10,60.0,Matches
+693,Andrés Romero,ve VEN,"MF,DF",ve Monagas,19,2003,4.9,3,0,0,8,8,2,12,3,8,0,0,0,34,5,3,62.5,Matches
+694,Ángel Romero,py PAR,"MF,FW",br Corinthians,30,1992,0.8,0,0,0,0,1,0,7,0,1,0,0,0,4,0,2,0.0,Matches
+695,Juan Romero,py PAR,FW,py Olimpia,21,2001,0.5,2,1,1,2,0,0,1,1,2,0,0,0,3,0,1,0.0,Matches
+696,Maximiliano Romero,ar ARG,FW,ar Racing Club,24,1999,6.1,0,0,0,1,6,4,1,2,3,0,0,0,21,13,16,44.8,Matches
+697,Óscar Romero,py PAR,"FW,MF",ar Boca Juniors,30,1992,1.8,0,0,0,1,9,0,3,0,0,0,0,0,15,1,1,50.0,Matches
+698,Sergio Romero,ar ARG,GK,ar Boca Juniors,35,1987,14.3,1,0,0,0,2,0,0,0,0,0,0,0,10,1,0,100.0,Matches
+699,Luis Romero Véliz,ec ECU,DF,ec SD Aucas,38,1984,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+700,Rômulo,br BRA,"FW,MF",br Ath Paranaense,20,2002,1.4,0,0,0,3,2,0,1,2,3,0,0,0,7,6,7,46.2,Matches
+701,Romulo,br BRA,"MF,DF",br Internacional,22,2000,3.6,2,0,0,6,11,0,1,7,6,0,0,0,16,5,9,35.7,Matches
+702,Facundo Roncaglia,ar ARG,DF,ar Boca Juniors,35,1987,2.9,3,1,1,6,2,0,0,7,1,0,0,0,12,3,3,50.0,Matches
+703,Salomón Rondón,ve VEN,FW,ar River Plate,33,1989,0.6,0,1,0,1,0,0,0,0,0,0,0,0,3,1,0,100.0,Matches
+704,Budiga Roni,br BRA,MF,br Corinthians,23,1999,2.2,2,0,0,7,2,0,2,0,4,0,0,0,12,3,3,50.0,Matches
+705,Rony,br BRA,FW,br Palmeiras,27,1995,9.6,3,0,0,12,15,10,6,0,3,2,0,0,13,11,33,25.0,Matches
+706,Vitor Roque,br BRA,FW,br Ath Paranaense,17,2005,7.1,0,0,0,9,18,5,3,0,2,0,0,0,15,10,21,32.3,Matches
+707,Rubens,br BRA,"DF,FW",br Atlético Mineiro,21,2001,2.9,1,0,0,6,4,1,11,6,4,1,0,0,20,1,2,33.3,Matches
+708,Patricio Rubio,cl CHI,FW,cl Ñublense,33,1989,3.7,3,0,0,7,9,3,2,1,2,0,0,0,11,10,10,50.0,Matches
+709,Tobías Rubio,ar ARG,DF,ar Racing Club,18,2004,1.5,2,0,0,2,3,0,2,2,2,0,0,0,13,2,3,40.0,Matches
+710,Matías Ruíz Díaz,ar ARG,DF,ar Patronato,26,1996,3.3,2,0,0,1,2,0,8,3,2,0,1,0,15,0,1,0.0,Matches
+711,Ignacio Russo,ar ARG,"MF,FW",ar Patronato,22,2000,2.7,0,0,0,5,7,1,6,2,0,0,0,0,8,4,10,28.6,Matches
+712,Pablo Sabbag,sy SYR,FW,pe Alianza Lima,25,1997,3.9,1,0,0,6,6,1,4,1,0,0,0,0,11,11,15,42.3,Matches
+713,José Sagredo,bo BOL,DF,bo Bolívar,28,1994,7.0,2,1,1,8,1,1,16,4,11,0,0,0,54,6,7,46.2,Matches
+714,Andrés Salazar,co COL,DF,co Nacional,20,2003,2.4,1,0,0,3,2,0,6,5,1,0,0,0,19,0,6,0.0,Matches
+715,Alan Saldivia,uy URU,DF,cl Colo-Colo,20,2002,3.0,0,0,0,5,1,0,0,10,4,0,0,0,20,21,5,80.8,Matches
+716,Emiliano Saliadarre,ar ARG,FW,ar Racing Club,20,2002,0.1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,1,50.0,Matches
+717,Julio Salvá,ar ARG,GK,ar Patronato,35,1987,3.0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+718,Braian Samudio,py PAR,"FW,MF",py Cerro Porteño,27,1995,1.3,0,0,0,2,1,1,2,0,2,0,0,0,3,8,9,47.1,Matches
+719,Miguel Samudio,py PAR,DF,uy Liverpool,36,1986,5.6,1,0,0,1,1,0,14,6,8,0,0,0,26,4,2,66.7,Matches
+720,Lucas Sanabria,py PAR,MF,py Libertad,23,1999,5.0,1,0,0,7,4,0,7,9,3,0,0,0,27,8,11,42.1,Matches
+721,Juan Sánchez,ec ECU,MF,pe Sporting Cristal,20,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+722,Luciano Sánchez,ar ARG,"DF,FW",ar Arg Juniors,29,1994,1.3,0,0,0,1,1,0,1,7,3,0,0,0,7,1,0,100.0,Matches
+723,Agustín Sández,ar ARG,DF,ar Boca Juniors,22,2001,0.3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
+724,Roque Santa Cruz,py PAR,"FW,MF",py Libertad,41,1981,1.4,0,0,0,3,1,0,1,0,0,0,0,0,6,14,8,63.6,Matches
+725,Danilo Santacruz,py PAR,"FW,MF",co Pereira,27,1995,1.8,0,0,0,0,4,0,5,0,2,0,0,0,6,2,4,33.3,Matches
+726,Alex Santana,br BRA,MF,br Ath Paranaense,27,1995,2.9,2,0,0,7,6,0,1,2,4,0,0,0,18,3,2,60.0,Matches
+727,Santos,br BRA,GK,br Flamengo,32,1990,3.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Matches
+728,Fábio Santos,br BRA,DF,br Corinthians,37,1985,3.0,0,0,0,1,4,0,4,3,1,0,0,0,13,1,1,50.0,Matches
+729,Pedrinho Santos,br BRA,"FW,MF",br Corinthians,16,2006,0.9,1,0,0,2,2,0,4,0,0,0,0,0,3,1,0,100.0,Matches
+730,Marcelo Saracchi,uy URU,DF,ar Boca Juniors,24,1998,0.9,1,0,0,0,0,0,4,0,0,0,0,0,1,0,0,,Matches
+731,Franco Saravia,pe PER,GK,pe Alianza Lima,23,1999,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+732,Renzo Saravia,ar ARG,DF,br Atlético Mineiro,29,1993,3.2,2,0,0,6,13,0,8,1,7,0,0,0,24,4,6,40.0,Matches
+733,Fernando Saucedo,bo BOL,MF,bo Bolívar,32,1990,4.7,0,0,0,7,1,0,9,4,3,0,0,0,35,3,5,37.5,Matches
+734,Bruno Sávio,br BRA,MF,bo Bolívar,28,1994,3.5,1,0,0,6,0,0,11,2,5,0,0,0,12,1,7,12.5,Matches
+735,Giancarlo Schiavone,ve VEN,GK,ve Metropolitanos,29,1993,6.0,0,0,0,0,3,0,0,0,1,0,0,0,5,4,1,80.0,Matches
+736,Richard Schunke,ar ARG,DF,ec Independiente,31,1991,5.0,0,0,0,7,1,0,0,6,7,0,1,0,47,9,6,60.0,Matches
+737,Giovanny Sequera,ve VEN,MF,ve Metropolitanos,16,2006,0.8,0,1,0,2,4,0,1,0,0,0,0,0,4,0,0,,Matches
+738,Leonardo Sigali,ar ARG,DF,ar Racing Club,35,1987,9.9,1,0,0,3,4,2,0,10,13,0,0,0,56,19,21,47.5,Matches
+739,Alejandro Silva González,uy URU,"MF,DF",py Olimpia,33,1989,9.4,1,0,0,7,9,0,32,2,10,0,0,0,76,4,1,80.0,Matches
+740,Martín Silva,uy URU,GK,py Libertad,39,1983,6.0,1,0,0,0,1,0,0,0,0,0,0,0,3,1,0,100.0,Matches
+741,Matías Silva,uy URU,FW,uy Liverpool,18,2004,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+742,Nathan Silva,br BRA,DF,br Atlético Mineiro,25,1997,4.0,0,0,0,3,2,0,1,3,1,0,0,0,19,15,7,68.2,Matches
+743,Santiago Simón,ar ARG,"FW,MF",ar River Plate,20,2002,0.5,0,0,0,3,0,0,4,2,1,0,0,0,6,1,0,100.0,Matches
+744,Jailson Siqueira,br BRA,MF,br Palmeiras,27,1995,0.7,2,1,1,2,1,0,0,1,1,0,0,0,3,1,0,100.0,Matches
+745,Everton Soares,br BRA,"FW,MF",br Flamengo,26,1996,2.0,0,0,0,3,2,1,3,0,2,0,0,0,8,1,2,33.3,Matches
+746,Pablo Solari,ar ARG,"FW,MF",ar River Plate,21,2001,4.4,1,0,0,3,5,5,13,0,6,0,0,0,26,1,12,7.7,Matches
+747,Jhon Solis,co COL,MF,co Nacional,18,2004,3.5,2,1,1,4,1,0,0,1,6,0,0,0,24,3,3,50.0,Matches
+748,Nazareno Solís,ar ARG,"FW,MF",ar Patronato,28,1994,2.7,3,0,0,2,12,2,18,2,2,0,0,0,24,0,4,0.0,Matches
+749,Renato Solis,pe PER,GK,pe Sporting Cristal,25,1998,6.0,0,0,0,0,1,0,0,0,0,0,0,0,5,1,0,100.0,Matches
+750,Junior Sornoza,ec ECU,"MF,FW",ec Independiente,29,1994,4.2,3,0,0,1,3,0,34,3,0,0,0,0,23,2,4,33.3,Matches
+751,Alexander Sosa,ar ARG,FW,ar Patronato,21,2001,1.5,3,0,0,4,0,3,1,0,0,0,0,0,7,0,4,0.0,Matches
+752,Leandro Sosa,uy URU,"FW,MF",pe Sporting Cristal,28,1994,2.1,0,0,0,1,1,0,4,1,3,0,0,0,15,1,1,50.0,Matches
+753,Luca Sosa,ar ARG,DF,ec Barcelona,28,1994,6.0,3,0,0,4,4,0,4,2,6,0,0,0,28,5,12,29.4,Matches
+754,Lucas Soto,cl CHI,MF,cl Colo-Colo,19,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+755,Gabriel Sotomayor,bo BOL,FW,bo The Strongest,23,1999,1.7,0,0,0,2,7,0,2,1,6,0,0,0,10,1,2,33.3,Matches
+756,Jeison Suarez,co COL,DF,co Pereira,25,1997,3.6,0,0,0,2,4,0,8,6,5,0,0,0,34,8,4,66.7,Matches
+757,Matías Suárez,ar ARG,"FW,MF",ar River Plate,34,1988,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+758,Bruno Tabata,br BRA,MF,br Palmeiras,25,1997,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+759,Vicente Taborda,ar ARG,MF,ar Boca Juniors,21,2001,0.2,0,0,0,0,2,0,12,0,0,0,0,0,0,0,0,,Matches
+760,Matías Tagliamonte,ar ARG,GK,ar Racing Club,24,1998,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+761,Walter Tandazo,pe PER,MF,pe Melgar,22,2000,3.1,0,0,0,3,2,0,2,3,7,0,0,0,13,2,2,50.0,Matches
+762,Gerald Távara,pe PER,MF,pe Sporting Cristal,23,1999,2.1,1,0,0,2,3,0,3,2,5,0,0,0,21,3,2,60.0,Matches
+763,David Terans,uy URU,"MF,FW",br Ath Paranaense,28,1994,3.6,1,0,0,3,1,1,13,2,3,0,0,0,19,1,7,12.5,Matches
+764,Thiago,br BRA,FW,br Ath Paranaense,22,2000,1.5,0,0,0,3,3,0,1,0,0,0,0,0,8,0,1,0.0,Matches
+765,Jordhy Thompson,cl CHI,"FW,DF",cl Colo-Colo,18,2004,1.0,0,0,0,2,2,0,5,0,1,0,0,0,8,1,0,100.0,Matches
+766,Daniel Torres,co COL,MF,co Independiente,33,1989,4.1,3,0,0,12,5,0,1,8,2,0,0,0,27,3,10,23.1,Matches
+767,Diego Torres,py PAR,"FW,MF",py Olimpia,20,2002,1.6,2,0,0,2,2,0,4,0,2,0,0,0,10,3,1,75.0,Matches
+768,Juan Torres,co COL,"MF,FW",co Nacional,18,2004,2.2,0,0,0,2,5,0,8,0,1,1,0,0,10,0,3,0.0,Matches
+769,Saúl Torres,bo BOL,DF,bo The Strongest,32,1990,5.1,0,0,0,1,0,0,6,5,8,0,0,0,29,1,3,25.0,Matches
+770,Alfonso Trezza,uy URU,"FW,MF",uy Nacional,23,1999,5.7,2,0,0,8,10,1,13,3,9,0,0,0,27,3,11,21.4,Matches
+771,Enrique Triverio,ar ARG,FW,bo The Strongest,34,1988,5.9,3,0,0,11,10,6,5,0,1,1,0,0,9,22,29,43.1,Matches
+772,Luciano Ursino,bo BOL,MF,bo The Strongest,34,1988,4.8,2,0,0,13,1,2,12,3,5,0,0,0,26,0,3,0.0,Matches
+773,Javier Uzeda,bo BOL,"MF,DF",bo Bolívar,20,2002,1.2,0,0,0,1,3,0,1,1,0,0,0,0,8,0,0,,Matches
+774,Ramiro Vaca,bo BOL,"MF,FW",bo Bolívar,23,1999,1.2,1,0,0,0,2,0,4,1,0,0,0,0,15,0,1,0.0,Matches
+775,Ely Valderrey,ve VEN,DF,ve Metropolitanos,36,1986,1.3,1,0,0,2,0,0,1,2,0,0,0,0,12,3,1,75.0,Matches
+776,Alex Valdés,cl CHI,"FW,MF",cl Ñublense,20,2002,0.8,0,0,0,3,0,0,1,0,1,0,0,0,2,2,2,50.0,Matches
+777,Bruno Valdez,py PAR,"DF,FW",ar Boca Juniors,30,1992,3.5,2,2,1,5,3,0,0,3,2,0,0,0,10,5,3,62.5,Matches
+778,Jorge Valdez Chamorro,ar ARG,MF,ar Patronato,28,1994,1.8,1,0,0,3,2,0,7,2,3,0,0,0,11,5,2,71.4,Matches
+779,Enner Valencia,ec ECU,FW,br Internacional,33,1989,6.1,0,0,0,10,12,8,4,0,0,0,0,0,15,6,17,26.1,Matches
+780,Ever Valencia,co COL,"FW,MF",co Independiente,26,1997,0.4,0,0,0,1,0,0,5,0,0,0,0,0,3,0,2,0.0,Matches
+781,Kener Valencia,co COL,"FW,DF",co Pereira,21,2001,1.2,0,0,0,2,0,1,0,0,3,0,0,0,4,7,12,36.8,Matches
+782,Nicolás Valentini,ar ARG,DF,ar Boca Juniors,21,2001,8.2,2,0,0,10,4,0,2,6,5,0,0,0,28,19,8,70.4,Matches
+783,Oswaldo Valenzuela,pe PER,MF,pe Alianza Lima,22,2000,0.2,1,0,0,2,0,0,0,0,0,0,0,0,3,1,1,50.0,Matches
+784,Vanderlan,br BRA,DF,br Palmeiras,20,2002,2.6,0,0,0,4,1,0,10,3,1,0,0,0,20,2,2,50.0,Matches
+785,Alan Varela,ar ARG,MF,ar Boca Juniors,21,2001,7.3,1,0,0,6,4,0,0,11,13,0,0,0,45,9,6,60.0,Matches
+786,Guillermo Varela,uy URU,DF,br Flamengo,29,1993,1.1,0,0,0,2,3,0,2,0,0,0,0,0,6,1,2,33.3,Matches
+787,Eduardo Vargas,cl CHI,FW,br Atlético Mineiro,33,1989,2.1,0,0,0,1,3,0,1,2,2,0,0,0,12,1,8,11.1,Matches
+788,Freddy Vargas,ve VEN,"MF,FW",ve Metropolitanos,23,1999,4.8,2,0,0,5,5,1,19,1,4,0,0,0,20,3,0,100.0,Matches
+789,Jefre Vargas,ve VEN,DF,ve Metropolitanos,28,1995,6.0,0,0,0,3,4,0,17,7,3,0,0,0,54,3,4,42.9,Matches
+790,Fabio Vázquez,ar ARG,MF,ar Patronato,28,1994,3.8,2,0,0,5,3,0,0,3,4,0,0,0,30,2,2,50.0,Matches
+791,Luis Vázquez,ar ARG,FW,ar Boca Juniors,22,2001,1.5,0,0,0,1,0,0,0,0,1,0,0,0,3,6,0,100.0,Matches
+792,Edison Vega,ec ECU,MF,ec SD Aucas,32,1990,4.7,2,0,0,2,9,0,1,6,3,0,0,0,30,3,2,60.0,Matches
+793,Raphael Veiga,br BRA,MF,br Palmeiras,27,1995,9.2,2,0,0,16,19,0,61,6,9,0,0,0,45,1,10,9.1,Matches
+794,Yílmar Velásquez,co COL,MF,co Pereira,23,1999,5.5,0,0,0,15,3,0,0,4,13,0,0,0,43,6,7,46.2,Matches
+795,Fausto Vera,ar ARG,MF,br Corinthians,22,2000,5.7,2,0,0,8,6,0,6,3,4,0,0,0,44,3,8,27.3,Matches
+796,Matías Vera,ar ARG,FW,ar Arg Juniors,27,1995,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+797,Gastón Verón,ar ARG,"FW,MF",ar Arg Juniors,21,2001,4.5,0,0,0,8,8,2,2,2,6,0,0,0,22,9,18,33.3,Matches
+798,Arturo Vidal,cl CHI,MF,br Ath Paranaense,35,1987,2.1,0,0,0,5,2,0,9,4,1,0,0,0,13,3,5,37.5,Matches
+799,Arturo Vidal,cl CHI,MF,br Flamengo,35,1987,2.9,2,0,0,5,3,0,1,2,4,0,0,0,18,3,3,50.0,Matches
+800,Felipe Vieira,,FW,br Fluminense,,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+801,Diego Viera,py PAR,DF,py Libertad,31,1991,6.0,0,0,0,1,1,0,4,5,8,0,0,0,36,14,4,77.8,Matches
+802,Wilder Viera,py PAR,MF,py Cerro Porteño,20,2002,2.4,2,0,0,4,1,0,1,2,8,0,0,0,17,1,2,33.3,Matches
+803,Andrés Vilches,cl CHI,"FW,DF",cl Ñublense,31,1992,2.7,0,0,0,5,3,1,0,2,3,0,0,0,6,6,11,35.3,Matches
+804,Yordi Vílchez,pe PER,DF,pe Alianza Lima,27,1995,2.5,0,0,0,6,1,0,8,5,5,0,0,0,18,4,5,44.4,Matches
+805,Alexis Villa,ec ECU,GK,ec Independiente,21,2001,1.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,Matches
+806,Sebastián Villa,co COL,"FW,MF",ar Boca Juniors,26,1996,4.0,0,0,0,2,16,1,37,2,4,0,0,0,26,1,4,20.0,Matches
+807,Héctor Villalba,py PAR,"FW,MF",py Libertad,28,1994,5.4,0,0,0,6,3,2,52,4,1,0,0,0,29,3,8,27.3,Matches
+808,Lucas Villalba,ar ARG,DF,ar Arg Juniors,28,1994,6.0,7,1,1,8,3,0,10,12,3,0,1,0,21,8,4,66.7,Matches
+809,Gabriel Villamíl,bo BOL,"MF,DF",bo Bolívar,21,2001,10.2,5,0,0,16,3,0,11,8,14,0,0,0,55,5,10,33.3,Matches
+810,Moisés Villarroel Angulo,bo BOL,MF,bo Bolívar,24,1998,0.3,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,,Matches
+811,Miguel Villarroel,bo BOL,"MF,DF",bo Bolívar,20,2003,0.7,0,0,0,0,4,0,10,0,1,0,0,0,5,0,0,,Matches
+812,Vitão,br BRA,DF,br Internacional,22,2000,10.3,2,0,0,4,3,0,2,13,7,0,0,0,32,21,16,56.8,Matches
+813,Guillermo Vizcarra,bo BOL,GK,bo The Strongest,29,1993,6.0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0.0,Matches
+814,Wanderson,br BRA,"FW,MF",br Internacional,28,1994,9.9,2,0,0,10,11,2,31,4,10,0,0,0,50,9,4,69.2,Matches
+815,Marcelo Weigandt,ar ARG,DF,ar Boca Juniors,23,2000,5.7,1,0,0,2,7,1,11,7,10,0,0,0,43,9,7,56.3,Matches
+816,Wesley,br BRA,DF,br Flamengo,19,2003,5.5,4,1,1,10,7,0,9,4,6,0,0,0,33,8,7,53.3,Matches
+817,Wesley,br BRA,MF,br Corinthians,17,2005,0.7,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,50.0,Matches
+818,Wéverton,br BRA,GK,br Palmeiras,35,1987,11.3,0,0,0,0,6,0,0,0,0,0,0,0,11,6,0,100.0,Matches
+819,Érick Wiemberg,cl CHI,DF,cl Colo-Colo,28,1994,1.5,1,0,0,3,0,0,1,2,1,0,0,0,4,5,4,55.6,Matches
+820,Willian,br BRA,FW,br Ath Paranaense,36,1986,0.3,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,,Matches
+821,Samuel Xavier,br BRA,DF,br Fluminense,32,1990,10.3,4,1,1,7,7,1,16,5,7,0,0,0,39,3,8,27.3,Matches
+822,Yoshimar Yotún,pe PER,"MF,FW",pe Sporting Cristal,32,1990,5.0,1,1,0,5,19,0,20,4,8,0,0,0,35,8,2,80.0,Matches
+823,Diego Zabala,uy URU,MF,uy Nacional,31,1991,7.5,2,0,0,6,4,0,51,3,5,0,0,0,45,5,15,25.0,Matches
+824,Facundo Zabala,ar ARG,DF,py Olimpia,24,1999,9.0,2,0,0,6,4,0,20,11,10,0,0,0,55,8,5,61.5,Matches
+825,Nicolás Zalazar,ar ARG,DF,cl Ñublense,26,1997,3.9,3,1,1,5,2,0,3,10,4,0,1,0,19,5,3,62.5,Matches
+826,Carlos Zambrano,pe PER,DF,pe Alianza Lima,33,1989,5.0,2,0,0,4,7,0,0,7,5,0,0,0,23,8,8,50.0,Matches
+827,Franco Zanelatto,pe PER,"FW,MF",pe Alianza Lima,22,2000,1.7,0,0,0,2,6,1,5,0,1,0,0,0,3,1,2,33.3,Matches
+828,Cristián Zapata,co COL,DF,co Nacional,36,1986,5.8,3,0,0,8,4,0,0,4,1,0,0,0,26,17,11,60.7,Matches
+829,Federico Zaracho,ar ARG,MF,br Atlético Mineiro,24,1998,5.8,0,0,0,7,8,2,2,5,7,0,0,0,33,5,14,26.3,Matches
+830,Exequiel Zeballos,ar ARG,"FW,DF",ar Boca Juniors,20,2002,1.6,1,0,0,0,2,0,14,2,0,0,0,0,12,0,0,,Matches
+831,Matías Zunino,uy URU,MF,uy Liverpool,32,1990,0.2,2,0,0,4,0,0,0,1,0,0,0,0,0,1,2,33.3,Matches
