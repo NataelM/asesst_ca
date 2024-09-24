@@ -35,7 +35,6 @@ requests-cache==1.2.1
 rich==13.8.1
 rpds-py==0.20.0
 setuptools==74.1.2
-six six_1620240208055
 smmap==5.0.1
 statsbombpy==1.14.0
 streamlit==1.38.0
