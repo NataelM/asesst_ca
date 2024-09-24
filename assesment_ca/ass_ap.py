@@ -5,9 +5,16 @@ import plotly.graph_objects as go
 from pathlib import Path
 st.set_page_config(layout="wide")
 
-current_path = Path("tips.csv").resolve()
+# Ruta actual al directorio actual del archivo .py
+current_path = Path(__file__).resolve()
+
+# Cargar los archivos CSV usando la ruta relativa
 women = pd.read_csv(current_path.parents[0] / 'wc_wom_2023.csv')
-men = pd.read_csv(current_path.parents[0] /'cop_lib_2023.csv')
+men = pd.read_csv(current_path.parents[0] / 'cop_lib_2023.csv')
+
+# current_path = Path("tips.csv").resolve()
+# women = pd.read_csv(current_path.parents[0] / 'wc_wom_2023.csv')
+# men = pd.read_csv(current_path.parents[0] /'cop_lib_2023.csv')
 
 st.title('Assestment Scouting Club América')
 
