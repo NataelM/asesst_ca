@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
+from pathlib import Path
 st.set_page_config(layout="wide")
 
 current_path = Path("tips.csv").resolve()
