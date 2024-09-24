@@ -35,7 +35,6 @@ requests==2.32.3
 requests-cache==1.2.1
 rich==13.8.1
 rpds-py==0.20.0
-setuptools==74.1.2
 tenacity==8.5.0
 toml==0.10.2
 typeguard==4.3.0
