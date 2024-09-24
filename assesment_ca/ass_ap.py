@@ -4,9 +4,9 @@ import pandas as pd
 import plotly.graph_objects as go
 st.set_page_config(layout="wide")
 
-
-women = pd.read_csv('wc_wom_2023.csv')
-men = pd.read_csv('cop_lib_2023.csv')
+current_path = Path("tips.csv").resolve()
+women = pd.read_csv(current_path.parents[0] / 'wc_wom_2023.csv')
+men = pd.read_csv(current_path.parents[0] /'cop_lib_2023.csv')
 
 st.title('Assestment Scouting Club América')
 
